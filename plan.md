@@ -1,4 +1,7 @@
 1. Pick 10 passages - highlight big picture of life of Jesus
+
+TODO: Add more from the end of the Gospel, prune some of the earlier.  Prefer shorter passages.
+
   - John 1:1-13
   - John 2:1-11
   - John 3:1-21
