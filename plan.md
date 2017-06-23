@@ -1,6 +1,8 @@
 1. Pick 10 passages - highlight big picture of life of Jesus
-  - John 1:1
-  - John 3
+  - John 1:1-13
+  - John 2:1-11
+  - John 3:1-21
+  - John 4:7-21
   - John 8
   - Mark 16
   ...
