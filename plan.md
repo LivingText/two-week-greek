@@ -3,7 +3,12 @@
   - John 2:1-11
   - John 3:1-21
   - John 4:7-21
-  - John 8
+  - John 6:1-14
+  - John 8:1-11
+  - John 10:1-17
+  - John 11:29-41
+  - John 13:1-15
+  - John 13:16-27
   - Mark 16
   ...
 2. For each passage, do formatting along the lines in the templates directory
