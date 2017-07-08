@@ -24,8 +24,13 @@
         1. Content Objective: Students will demonstrate understanding of the scene by acting it out.
         1. Language Objectives:  
             1. Students will respond appropriately to commands issued by the instructor (καθίσον/καθίσατε, στῆθι/στῆτε)
-            1. As with the previous lessons, students will use single words and short phrases drawn from the text to answer basic questions posted by the instructor.
-    1. John 10:1-17 "I am the gate" "I am the good shepherd"
+            1. As with the previous lessons, students will use single words and short phrases drawn from the text to answer basic questions posted by the instructor. [Make this more specific by adding a target ratio of correct responses.]
+    1. John 10:11-17 "I am the gate" "I am the good shepherd"
+        1. Content Objective: Students will articulte what they perceive to be the message of the saying Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός based on the text of John 10:11-17.
+        1. Language Objectives: 
+            1. Students will use the pattern Article-Noun-Article-Adjective to respond to questions posed by the instructor about the text and about objects in the classroom.
+            1. Students will use the genitive form of the relative pronoun (ὅς, ἥ, ὅ) in response to questions about the text.
+    1. John 11:17-27 Jesus the Resurrection and the Life
         1. Content Objective: 
         1. Language Objective: 
     1. John 11:29-41 (Jonathan: Are your sure the citation is right here?)
