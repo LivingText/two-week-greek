@@ -42,12 +42,13 @@ Vocabulary and forms are also tracked.  For instance, here are the forms encount
 ```
 
 
-Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.  For instance, after John 1:1-2, we could introduce the following table:
+Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.  Early on, we use question words to indicate cases, introducing words like 'nominative' and 'accusative' later. For instance, after John 1:1-2, we could introduce the following table:
 
-|  -    |  πρὸς   |
+| τίς;    |   πρὸς τίνα;   |
 |-------|---------|
 | ὁ θεός| πρὸς τὸν θεόν |
 | ὁ Λόγος| πρὸς τὸν Λόγον |
+
 
 At this point, however, we are not yet using words like "accusative", merely pointing out that πρὸς has this effect on each of these two-word phrases.
 
