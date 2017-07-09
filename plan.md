@@ -34,9 +34,6 @@
     1. John 11:17-27 Jesus the Resurrection and the Life
         1. Content Objective: 
         1. Language Objective: 
-    1. John 11:29-41 (Jonathan: Are your sure the citation is right here?)
-        1. Content Objective: 
-        1. Language Objective: 
     1. John 13:1-15 Jesus washes the disciples' feet
         1. Content Objective: 
         1. Language Objective: 
