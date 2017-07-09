@@ -12,7 +12,7 @@
 Create both:  (a) student materials (possibly xhtml presentation, possibly PDF)
 (b) teaching guide
 
-Alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises.  At the end of each lesson, a color coded alphabet shows students which letters have already been covered.  Students are given a pronunciation guide and a handwriting guide for review between classes or after the class is finished. For instance, here is a guide to the forms encountered in 1 John 1:1-2:
+Alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises.  At the end of each lesson, a color coded alphabet shows students which letters have already been covered.  Students are given a pronunciation guide and a handwriting guide for review between classes or after the class is finished. Students are given an indication of what they have seen to track progress, but reassured that they don't have to master everything the first time they encounter it, and there will be regular practice with using the alphabet in context and they will pick it up. At first, accents are all lumped into one pot. For instance, here is a guide to the forms encountered in 1 John 1:1-2 that students would receive after that first lesson:
 
 ```
 αβγδεζηθικλμνξοπρστυφχψω
@@ -22,7 +22,7 @@ Alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises. 
 -------Θ--Λ---Ο---------
 
 Dipthongs: καὶ, Οὗτος
-Breathing: ἐν, ὁ, ἦν
+Breathing: ἐν, ὁ, ἦν, Οὗτος
 ```
 
 Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.
