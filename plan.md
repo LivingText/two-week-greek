@@ -12,7 +12,9 @@
 Create both:  (a) student materials (possibly xhtml presentation, possibly PDF)
 (b) teaching guide
 
-Alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises.  At the end of each lesson, a color coded alphabet shows students which letters have already been covered.  Students are given a pronunciation guide and a handwriting guide for review between classes or after the class is finished. Students are given an indication of what they have seen to track progress, but reassured that they don't have to master everything the first time they encounter it, and there will be regular practice with using the alphabet in context and they will pick it up. At first, accents are all lumped into one pot. For instance, here is a guide to the forms encountered in 1 John 1:1-2 that students would receive after that first lesson:
+Early lessons cover 2-3 verses, later lessons may cover as much as an entire passage depending on student progress. The student materials for each lesson explicitly state the language and content objectives.  For instance, for John 1:1-2, the content objective is to respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή; and τίς (e.g. τίς ἦν ἐν ἀρχῇ;).  The handout also lists questions that have been asked in this form: ἀρχῇ ἢ τελευτή; τίς ἦν ἐν ἀρχῇ; θεὸς ἢ ἄνθρωπος; τίς ἦν πρὸς τὸν θεόν;  θεὸς ἦν ὁ λόγος ἢ ἄνθρωπος ἦν ὁ λόγος; τίς ἦν ἐν ἀρχῇ πρὸς τὸν θεόν;  The student handout also helps students (and teachers) track their progress by identifying what aspects of the language they have learned so far.
+
+The alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises.  At the end of each lesson, a color coded alphabet shows students which letters have already been covered.  Students are given a pronunciation guide and a handwriting guide for review between classes or after the class is finished. Students are given an indication of what they have seen to track progress, but reassured that they don't have to master everything the first time they encounter it, and there will be regular practice with using the alphabet in context and they will pick it up. At first, accents are all lumped into one pot. For instance, here is a guide to the forms encountered in 1 John 1:1-2 that students would receive after that first lesson:
 
 ```
 αβγδεζηθικλμνξοπρστυφχψω
@@ -25,9 +27,31 @@ Dipthongs: καὶ, Οὗτος
 Breathing: ἐν, ὁ, ἦν, Οὗτος
 ```
 
-Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.
+Vocabulary and forms are also tracked.  For instance, here are the forms encountered in John 1:1-2, grouped by lemma:
 
-Treedowning may be used later in the class.
+```
+ἀρχῇ
+ἦν
+Ἐν, ἐν
+Θεὸς, Θεόν
+καὶ
+Λόγος
+ὁ, τὸν
+Οὗτος
+πρὸς
+```
+
+
+Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.  For instance, after John 1:1-2, we could introduce the following table:
+
+|  -    |  πρὸς   |
+|-------|---------|
+| ὁ θεός| πρὸς τὸν θεόν |
+| ὁ Λόγος| πρὸς τὸν Λόγον |
+
+At this point, however, we are not yet using words like "accusative", merely pointing out that πρὸς has this effect on each of these two-word phrases.
+
+Treedowning is used later in the class to introduce concepts like subject, verb, object, etc.
 
 ## The passages
 
