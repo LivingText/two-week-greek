@@ -25,6 +25,7 @@ The alphabet is taught by (a) pronouncing the words, and (b) handwriting exercis
 
 Dipthongs: καὶ, Οὗτος
 Breathing: ἐν, ὁ, ἦν, Οὗτος
+Punctuation: ;
 ```
 
 Vocabulary and forms are also tracked.  For instance, here are the forms encountered in John 1:1-2, grouped by lemma:
