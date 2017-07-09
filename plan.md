@@ -5,7 +5,7 @@
 3. For each passage, pick a language objective and a content objective
 4. For each passage, fill in scaffolding needed to allow students to answer each question. 
   - show text without explanation
-  - add scaffolding 
+  - add scaffolding - pictures, gestures, acting, WAMK, etc.
   - work all 4 channels - listening, speaking, reading, writing
   - rinse and repeat
 
