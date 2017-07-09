@@ -1,4 +1,25 @@
+## Overall plan
+
 1. Pick 10 passages - highlight big picture of life of Jesus
+2. For each passage, do formatting along the lines in the templates directory
+3. For each passage, pick a language objective and a content objective
+4. For each passage, fill in scaffolding needed to allow students to answer each question. 
+  - show text without explanation
+  - add scaffolding 
+  - work all 4 channels - listening, speaking, reading, writing
+  - rinse and repeat
+
+Create both:  (a) student materials (possibly xhtml presentation, possibly PDF)
+(b) teaching guide
+
+Alphabet is taught by (a) pronouncing the words, and (b) handwriting exercises.  At the end of each lesson, a color coded alphabet shows students which letters have already been covered.  Students are given a pronunciation guide and a handwriting guide for review between classes or after the class is finished.
+
+Grammar is taught initially by asking / answering questions that identify the constituents of a clause together with their case markings. Tables of forms are introduced after they are encountered, showing only the rows and columns that have been encountered so far.
+
+Treedowning may be used later in the class.
+
+## The passages
+
     1. John 1:1-13 Logos
         1. Content Objective: Students will answer questions posted to them about the content of John 1:1-13 at least 4 out of 5 times.
         1. Language Objectives: 
@@ -67,20 +88,4 @@
         1. Content Objective: 
         1. Language Objective: 
   ...
-2. For each passage, do formatting along the lines in the templates directory
-3. For each passage, pick a language objective and a content objective
-4. For each passage, fill in scaffolding needed to allow students to answer each question. 
-  - show text without explanation
-  - add scaffolding 
-  - work all 4 channels (work the handwriting channel)
-  - rinse and repeat
 
-Create both:  (a) student materials (possibly xhtml presentation, possibly PDF)
-(b) teaching guide
-
-
-
-Some things that don't fit the above format:
-
-- Intro to alphabet
-- Treedowning
