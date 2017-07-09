@@ -63,7 +63,7 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
     1. Verses 1-2: Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν Θεόν.
         1. Content Objective: Students will answer questions posted to them about the content of John 1:1-13 at least 4 out of 5 times.
         1. Language Objectives: 
-            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή; and τίς (e.g. τίς ἦν ἐν ἀρχῇ;)  An activity to teach this: ask each student Τίς ει; or Συ τίς ει;  After names are established, point to someone and give two names, e.g. Ἰωνάθαν ἢ Μιχαήλ; or τίς ἐστίν; Ἰωνάθαν ἢ Μιχαήλ;
+            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή; and τίς (e.g. τίς ἦν ἐν ἀρχῇ;)  An activity to teach this: ask each student Τίς ει; or Συ τίς ει;  After names are established, point to someone and give two names, e.g. Ἰωνάθαν ἢ Μιχαήλ; or τίς ἐστίν; Ἰωνάθαν ἢ Μιχαήλ;
         1. Exposure:
             1. Students are exposed to the following skills, but not yet given enough practice to master them: questions using πρὸς τίνα (e.g. πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ;), questions using πότε (e.g. πότε ἦν ὁ λόγος πρὸς τὸν θεόν;), reading and writing the alphabet for letters used in the text, pronunciation of these words.
             1. Vocabulary, syntax, and grammatical forms will be tracked automatically for these lessons, and not called out under exposure (after this one mention).
