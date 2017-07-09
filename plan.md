@@ -2,7 +2,7 @@
     1. John 1:1-13 Logos
         1. Content Objective: Students will answer questions posted to them about the content of John 1:1-13 at least 4 out of 5 times.
         1. Language Objectives: 
-            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή;) and τίς (e.g. τίς ἦν ἐν ἀρχῇ;)
+            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή;, τίς (e.g. τίς ἦν ἐν ἀρχῇ;), and πρὸς τίνα (e.g. πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ;)
     1. John 2:1-11 Wedding at Cana
         1. Content Objective: Students will demonstrate understanding of the story of the wedding at Cana by responding correctly at least 4 out of 5 times to questions about the text.
         1. Language Objective: Using single words or short phrases drawn from the text, students will respond appropriately to questions about the text. [The objective here is comprehension of the questions, rather than mastery of the content.]
