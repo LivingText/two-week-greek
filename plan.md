@@ -69,7 +69,10 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
             1. Vocabulary, syntax, and grammatical forms will be tracked automatically for these lessons, and not called out under exposure (after this one mention).
         1. Sample questions
             1. ἀρχῇ ἢ τελευτή; τίς ἦν ἐν ἀρχῇ; θεὸς ἢ ἄνθρωπος; τίς ἦν πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος; θεὸς ἦν ὁ λόγος ἢ ἄνθρωπος ἦν ὁ λόγος; τίς ἦν ἐν ἀρχῇ πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ; πότε ἦν ὁ λόγος πρὸς τὸν θεόν;
-            
+    1. Verses 3-6: πάντα δι’ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων· καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.
+    1. Verses 6-9: Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης· οὗτος ἦλθεν εἰς μαρτυρίαν, ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν δι’ αὐτοῦ. οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ’ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός. ἦν τὸ φῶς τὸ ἀληθινὸν ὃ φωτίζει πάντα ἄνθρωπον ἐρχόμενον εἰς τὸν κόσμον.γονεν ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων· καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν. 
+    1. Verses 10-13: Ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι’ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω. εἰς τὰ ἴδια ἦλθεν, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον. ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ, οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ’ ἐκ θεοῦ ἐγεννήθησαν.
+    
 1. John 2:1-11 Wedding at Cana
     1. Content Objective: Students will demonstrate understanding of the story of the wedding at Cana by responding correctly at least 4 out of 5 times to questions about the text.
     1. Language Objective: Using single words or short phrases drawn from the text, students will respond appropriately to questions about the text. [The objective here is comprehension of the questions, rather than mastery of the content.]
