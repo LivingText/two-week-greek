@@ -27,6 +27,9 @@ Treedowning may be used later in the class.
     1. Exposure:
         1. Students are exposed to the following skills, but not yet given enough practice to master them: questions using πρὸς τίνα (e.g. πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ;), questions using πότε (e.g. πότε ἦν ὁ λόγος πρὸς τὸν θεόν;), reading and writing the alphabet for letters used in the text, pronunciation of these words.
         1. Vocabulary, syntax, and grammatical forms will be tracked automatically for these lessons, and not called out under exposure (after this one mention).
+    1. Sample questions
+        1. ἀρχῇ ἢ τελευτή; τίς ἦν ἐν ἀρχῇ; θεὸς ἢ ἄνθρωπος; τίς ἦν πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος; θεὸς ἦν ὁ λόγος ἢ ἄνθρωπος ἦν ὁ λόγος; τίς ἦν ἐν ἀρχῇ πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ; πότε ἦν ὁ λόγος πρὸς τὸν θεόν;
+
 1. John 2:1-11 Wedding at Cana
     1. Content Objective: Students will demonstrate understanding of the story of the wedding at Cana by responding correctly at least 4 out of 5 times to questions about the text.
     1. Language Objective: Using single words or short phrases drawn from the text, students will respond appropriately to questions about the text. [The objective here is comprehension of the questions, rather than mastery of the content.]
