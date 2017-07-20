@@ -11,8 +11,8 @@
   - work all 4 channels - listening, speaking, reading, writing
   - rinse and repeat
 
-Create both:  (a) student materials (possibly xhtml presentation, possibly PDF)
-(b) teaching guide
+Create both:  (a) student materials (possibly xhtml presentation, possibly PDF) and
+(b) teaching guide.
 
 Early lessons cover 2-3 verses, later lessons may cover as much as an entire passage depending on student progress. A single passage may contain several lessons; for instance, John 1:1-13 contains four. The student materials for each lesson explicitly state the language and content objectives.  For instance, for John 1:1-2, the content objective is to respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή; and τίς (e.g. τίς ἦν ἐν ἀρχῇ;).  The handout also lists questions that have been asked in this form: ἀρχῇ ἢ τελευτή; τίς ἦν ἐν ἀρχῇ; θεὸς ἢ ἄνθρωπος; τίς ἦν πρὸς τὸν θεόν;  θεὸς ἦν ὁ λόγος ἢ ἄνθρωπος ἦν ὁ λόγος; τίς ἦν ἐν ἀρχῇ πρὸς τὸν θεόν;  The student handout also helps students (and teachers) track their progress by identifying what aspects of the language they have learned so far.  Important:  the handouts must carefully distinguish material they have been exposed to from material we expect them to have mastered so that students are not completely overwhelmed.
 
@@ -22,7 +22,7 @@ The alphabet is taught by (a) pronouncing the words, and (b) handwriting exercis
 αβγδεζηθικλμνξοπρστυφχψω
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
 
-α-γ-ε-ηθ-κλ-ν-οπρστ--χ--
+α-γ-ε-ηθ-κλ-ν-οπρστ--χ-- [Jonathan: I don't get this. What are you trying to communicate here?]
 -------Θ--Λ---Ο---------
 
 Dipthongs: καὶ, Οὗτος
@@ -63,7 +63,7 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
     1. Verses 1-2: Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν Θεόν.
         1. Content Objective: Students will answer questions posted to them about the content of John 1:1-13 at least 4 out of 5 times.
         1. Language Objectives: 
-            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή; and τίς (e.g. τίς ἦν ἐν ἀρχῇ;)  An activity to teach this: ask each student Τίς ει; or Συ τίς ει;  After names are established, point to someone and give two names, e.g. Ἰωνάθαν ἢ Μιχαήλ; or τίς ἐστίν; Ἰωνάθαν ἢ Μιχαήλ;
+            1. Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή;) and τίς (e.g. τίς ἦν ἐν ἀρχῇ;)  An activity to teach this: ask each student Τίς ει; or Συ τίς ει;  After names are established, point to someone and give two names, e.g. Ἰωνάθαν ἢ Μιχαήλ; or τίς ἐστίν; Ἰωνάθαν ἢ Μιχαήλ;
         1. Exposure:
             1. Students are exposed to the following skills, but not yet given enough practice to master them: questions using πρὸς τίνα (e.g. πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ;), questions using πότε (e.g. πότε ἦν ὁ λόγος πρὸς τὸν θεόν;), reading and writing the alphabet for letters used in the text, pronunciation of these words.
             1. Vocabulary, syntax, and grammatical forms will be tracked automatically for these lessons, and not called out under exposure (after this one mention).
@@ -76,6 +76,7 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
 1. John 2:1-11 Wedding at Cana
     1. Content Objective: Students will demonstrate understanding of the story of the wedding at Cana by responding correctly at least 4 out of 5 times to questions about the text.
     1. Language Objective: Using single words or short phrases drawn from the text, students will respond appropriately to questions about the text. [The objective here is comprehension of the questions, rather than mastery of the content.]
+    
 1. John 3:1-21 Nicodemus
     1. Content Objective: Students will demonstrate a basic understanding of the story by answering questions about the actions of Nicodemus and Jesus at least 4 out of every 5 times.
     1. Language Objectives: 
@@ -102,11 +103,12 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
         1. Students will use the pattern Article-Noun-Article-Adjective to respond to questions posed by the instructor about the text and about objects in the classroom.
         1. Students will use the genitive form of the relative pronoun (ὅς, ἥ, ὅ) in response to questions about the text.
 1. John 11:17-27 Jesus the Resurrection and the Life
-    1. Content Objective: 
+    1. Content Objective: Students will demonstrate comprehension of the plot of the story by making limited assertions about the characters using short phrases.
     1. Language Objective: 
+        1. Students will differentiate between the accusative and dative forms of αὐτὸς used in this passage (αὐτὸν, αὐτῇ/αὐτῷ, αὐτὰς) on analogy with 2nd declesion nouns they have seen, such as τῷ οἴκῳ (verse 20), and use them appropriately in response to questions posed by the instructor.
 1. John 13:1-15 Jesus washes the disciples' feet
-    1. Content Objective: 
-    1. Language Objective: 
+    1. Content Objective: Using their own background knowledge as well as what they read and a few key phrases provided to them (βάλλει ὕδωρ, ἤρξατο νίπτειν, ἤρξατο ἐκμάσσειν), students will explain the key events in this scene by speaking and acting them out.
+    1. Language Objective: Students will demonstrate comprehension of the genitive case used to describe the setting of an event.  [Jonathan: This objective is not stated as it should be. It does not mention how students will demonstrate this understanding. Verse 2 contains an extended genitive absolute used to set the scene. We should talk about how best to handle that!] 
 1. John 13:16-27 The betrayal
     1. Content Objective: 
     1. Language Objective: 
