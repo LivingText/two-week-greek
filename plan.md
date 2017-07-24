@@ -61,7 +61,7 @@ Treedowning is used later in the class to introduce concepts like subject, verb,
 
 ## The passages
 
-1. [John 1:1-13 Logos](./lessonplans/01-John.01.1-13.markdown)
+1. [John 1:1-13 Logos](./lessonplans/01-John.01.1-13.md)
 1. John 2:1-11 Wedding at Cana
     1. Content Objective: Students will demonstrate understanding of the story of the wedding at Cana by responding correctly at least 4 out of 5 times to questions about the text.
     1. Language Objective: Using single words or short phrases drawn from the text, students will respond appropriately to questions about the text. [The objective here is comprehension of the questions, rather than mastery of the content.]
