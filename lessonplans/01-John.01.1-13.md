@@ -11,6 +11,10 @@
     1. Vocabulary, syntax, and grammatical forms will be tracked automatically for these lessons, and not called out under exposure (after this one mention).
 1. Sample questions
     1. ἀρχῇ ἢ τελευτή; τίς ἦν ἐν ἀρχῇ; θεὸς ἢ ἄνθρωπος; τίς ἦν πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος; θεὸς ἦν ὁ λόγος ἢ ἄνθρωπος ἦν ὁ λόγος; τίς ἦν ἐν ἀρχῇ πρὸς τὸν θεόν; πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ; πότε ἦν ὁ λόγος πρὸς τὸν θεόν;
+1. TPR opportunities
+    1. τίς
+    1. πρός, ὀπίσω
+    1. οὗτος, ἐκεῖνος
 1. Resources
 
 ## Verses 3-6: 
