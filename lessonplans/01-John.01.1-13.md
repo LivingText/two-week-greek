@@ -1,4 +1,4 @@
-John 1:1-13 Logos
+## John 1:1-13 Logos
 
 Verses 1-2: Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν Θεόν.
 Content Objective: Students will answer questions posted to them about the content of John 1:1-13 at least 4 out of 5 times.
