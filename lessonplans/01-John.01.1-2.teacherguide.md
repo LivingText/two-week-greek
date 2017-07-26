@@ -50,11 +50,16 @@
       Repeat with the cup (τὸ ποτήριον).
 
 1. <strong>Slide 1.10</strong> has the thumbs up emoji with the question ναὶ ἢ οὔ;. Ask the question and point to the emoji. Students should respond ναί. If they do not, supply the answer yourself and repeat the question. Clicking the spacebar will reveal the answer.
-      1. <strong>Slide 1.11</strong> does the same thing with the thumbs down emoji.
-      1. Use <strong>slides 1.12 and 1.13</strong> to introduce the names Μαρία and Ἰωάνης. These names will be used a lot in this course. Have the students repeat each one more than once.
-      1. <strong>Slide 1.14</strong> introduces the question word τίς;. Say the word with a questioning look on your face. Repeat it once or twice, but without explanation, then advance to the next slide.
-      1. <strong>Slides 1.15 and 1.16</strong> show a male or female emoji and present the question, Μαρία ἢ Ἰωάνης;. Ask the question and invite the students to answer it. Clicking the spacebar reveals the answer on each slide.
-      1. <strong>Slides 1.17 and 1.18</strong> ask about the emojis without provideing the names. They only ask τίς; Students should supply the names. Clicking the spacebar will reveal the expected response.
+      
+1. <strong>Slide 1.11</strong> does the same thing with the thumbs down emoji.
+
+1. Use <strong>slides 1.12 and 1.13</strong> to introduce the names Μαρία and Ἰωάνης. These names will be used a lot in this course. Have the students repeat each one more than once.
+
+1. <strong>Slide 1.14</strong> introduces the question word τίς;. Say the word with a questioning look on your face. Repeat it once or twice, but without explanation, then advance to the next slide.
+
+1. <strong>Slides 1.15 and 1.16</strong> show a male or female emoji and present the question, Μαρία ἢ Ἰωάνης;. Ask the question and invite the students to answer it. Clicking the spacebar reveals the answer on each slide.
+
+1. <strong>Slides 1.17 and 1.18</strong> ask about the emojis without provideing the names. They only ask τίς; Students should supply the names. Clicking the spacebar will reveal the expected response.
       
   <h2>Guided Reading Passage: John 1:1-2</h2>
       
