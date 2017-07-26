@@ -70,7 +70,6 @@ Read the citation in English, then read it very slowly in Greek.
 <h3>Pronouncing the Text</h3>
   
 1. Clicking the spacebar or the down arrow will take you to <strong>slide 2.2</strong>. The slide appears blank. Explain in English: "I am going to display the passage a little at a time. We will work on each section, learning to pronounce the words. Then we will work on understanding what they say."
-
 "We will do this with a passage from the Bible in each lesson during this course."
   
 1. Pressing the spacebar will display the first clause: Ἐν ἀρχῇ ἦν ὁ λόγος. Read the clause one word at a time, having the students repeat the word.
@@ -119,7 +118,7 @@ Read the citation in English, then read it very slowly in Greek.
     πρὸς τὸν θεόν
     οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
   
-<h3>Building Comprehension: Ἐν ἀρχῇ ἦν ὁ λόγος</3>
+<h3>Building Comprehension: Ἐν ἀρχῇ ἦν ὁ λόγος</h3>
   
 1. Pressing either the spacebar or the right arrow will take you to <strong>section 3</strong>, where you will lead the students through processing the meaning of what they just read.
   
