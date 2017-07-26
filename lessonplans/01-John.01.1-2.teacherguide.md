@@ -196,16 +196,15 @@ Read the citation in English, then read it very slowly in Greek.
   
   1. <strong>Slide 4.2</strong> repeats the clause καὶ ὁ λόγος ἦν πρὸς τὸν θεόν in larger type. Clicking the spacebar will reveal the conjunction: καί. Say, καί and have the students repeat it.
       Tap the spacebar to reveal the math expression: 1 + 1. Say, 
-      ἓν καὶ ἓν εἰσὶν δύο. Hold up the appropriate number of fingers as you say each number. 
-      Repeat while pointing to the numbers and the + sign as you get to them. ἓν (1) καὶ (+) ἓν (1).
+      ἓν καὶ ἓν εἰσὶν δύο (holding up the appropriate number of fingers as you say each number). 
+      Repeat while pointing to the numbers and the + sign as you get to them: ἓν (1) καὶ (+) ἓν (1).
   
   1. <strong>Slide 4.3</strong> repeats the same clause (καὶ ὁ λόγος ἦν πρὸς τὸν θεόν) but focusses on θεός. Point to the word and say, θεός. In invite the students to repeat the word.
   
   1. <strong>Slide 4.4</strong> displays the phrase ὁ θεός and Cima da Conegliano's 1515 painting of God the Father.
       Point to the phrase and read it aloud. Invite the students to repeat it.
   
-  1. <strong>Slide 4.5</strong> contains a graphic of people and the question, τίς; Read the question with a puzzled look on your face. Point to one student, but look at the others and ask them, τίς;
-      If they say the student's name, congratulate them by saying "ναί. [Student's name]." If not, just press the space bar to reveal the next slide. The meaning will become clear in a minute or two.
+  1. <strong>Slide 4.5</strong> contains a graphic of people and the question, τίς; Read the question with a puzzled look on your face. Point to a student whose name you know, but look at the others and ask them, τίς; If they say the student's name, congratulate them by saying "ναί. [Student's name]." If not, say the student's name yourself, then point to a different student and ask the others, τίς; 
   
   1. <strong>Slide 4.6</strong> display's the question θεὸς ἢ ἄνθρωπος; and Michelangelo's painting <em>The Creation of Adam</em>. In the painting Adam is encircled with a green line.
       Point to Adam and ask: τίς ἐστιν; θεὸς ἢ ἄνθρωπος;
