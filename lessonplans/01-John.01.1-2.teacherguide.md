@@ -168,11 +168,11 @@ Read the citation in English, then read it very slowly in Greek.
    
 1. <strong>Slides 3.15 - 3.17</strong> each display the phrase ὁ λόγος, then when you press the space bar they display a single word greeting in a different language. On each slide, you will say ὁ λόγος, press the space bar, and read aloud the word that appears. (Don't worry. I'm going to tell you how to do that.)
    
-1. The word on 3.15 is  نمستے ("namaste", a greeting in Urdu. You can hear the pronunciation <a href="https://en.wiktionary.org/wiki/namaste">here</a>).
+   1. The word on <strong>3.15</strong> is  نمستے ("namaste", a greeting in Urdu. You can hear the pronunciation <a href="https://en.wiktionary.org/wiki/namaste">here</a>).
    
-1. The word on 3.16 is Слухаю ("sluhayu" a greeting in Ukranian. You can hear its pronunciation <a href="https://forvo.com/word/uk/слухаю/">here</a>).
+   1. The word on <strong>3.16</strong> is Слухаю ("sluhayu" a greeting in Ukranian. You can hear its pronunciation <a href="https://forvo.com/word/uk/слухаю/">here</a>).
    
-1. The word on 3.17 is 喂 ("wéi", a telephone greeting in Mandarin Chinese. You can hear the pronunciation <a href="http://dictionary.hantrainerpro.com/chinese-english/translation-wei_hello.htm">here</a>).
+   1. The word on <strong>3.17</strong> is 喂 ("wéi", a telephone greeting in Mandarin Chinese. You can hear the pronunciation <a href="http://dictionary.hantrainerpro.com/chinese-english/translation-wei_hello.htm">here</a>).
    
 1. <strong>Slide 3.18</strong> displays the phrase οἱ λόγοι and a graphic of many Greek words. Read the phrase aloud. 
       Point to any word in the graphic and say λόγος ἕν (holding up one finger). 
@@ -185,13 +185,14 @@ Read the citation in English, then read it very slowly in Greek.
    
 <h3>Building Comprehension: καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
    
-1. Pressing the spacebar again will now take you to <strong>section 4</strong>. This section begins with a blank screen (<strong>slide 4.1</strong>). 
-   Tap the spacebar to review the clause Ἐν ἀρχῇ ἦν ὁ λόγος, before moving on. Have the students repeat the clause. 
+1. Pressing the spacebar again will now take you to <strong>section 4</strong>. The section begins with a blank screen (<strong>slide 4.1</strong>), and each tap of the spacebar will reveal more text.
+   Review Ἐν ἀρχῇ ἦν ὁ λόγος before moving on. Have the students repeat the clause.
    Tap the spacebar again to display the second clause: 
-      καὶ ὁ λόγος ἦν πρὸς τὸν θεόν. Since you read through this clause earlier without discussing its meaning, reading it a second time now can be done in longer segments as follows:
-      καὶ ὁ λόγος
-      ἦν
-      πρὸς τὸν θεόν
+      καὶ ὁ λόγος ἦν πρὸς τὸν θεόν. 
+      Since you read through this clause earlier without discussing its meaning, reading it a second time now can be done in longer segments as follows:
+      * καὶ ὁ λόγος
+      * ἦν
+      * πρὸς τὸν θεόν
   
   1. <strong>Slide 4.2</strong> repeats the clause καὶ ὁ λόγος ἦν πρὸς τὸν θεόν in larger type. Clicking the spacebar will reveal the conjunction: καί. Say, καί and have the students repeat it.
       Tap the spacebar to reveal the math expression: 1 + 1. Say, 
