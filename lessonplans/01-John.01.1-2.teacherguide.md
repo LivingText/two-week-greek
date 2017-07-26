@@ -63,76 +63,79 @@
       
   <h2>Guided Reading Passage: John 1:1-2</h2>
       
-  1. Pressing the spacebar or the right arrow will now move you to the beginning of the guided reading portion of the lesson (<strong>slide 2.1</strong>). This slide provides the biblical citation in both English and Greek. Explain in English that we are about to begin reading John 1:1-2. Reasure the students that while they will not understand at first, the <em>will</em> understand by the end of the lesson.
-      Read the citation in English, the read it very slowly in Greek.
+Pressing the spacebar or the right arrow will now move you to the beginning of the guided reading portion of the lesson (<strong>slide 2.1</strong>). This slide provides the biblical citation in both English and Greek. Explain in English that we are about to begin reading John 1:1-2. Reasure the students that while they will not understand at first, the <em>will</em> understand by the end of the lesson.
+
+Read the citation in English, then read it very slowly in Greek.
   
-  <h3>Pronouncing the Text</h3>
+<h3>Pronouncing the Text</h3>
   
-  1. Clicking the spacebar or the down arrow will take you to <strong>slide 2.2</strong>. The slide appears blank. Explain in English: "I am going to display the passage a little at a time. We will work on each section, learning to pronounce the words. Then we will work on understanding what they say."
-      "We will do this with a passage from the Bible in each lesson during this course."
+1. Clicking the spacebar or the down arrow will take you to <strong>slide 2.2</strong>. The slide appears blank. Explain in English: "I am going to display the passage a little at a time. We will work on each section, learning to pronounce the words. Then we will work on understanding what they say."
+
+"We will do this with a passage from the Bible in each lesson during this course."
   
-  1. Pressing the spacebar will display the first clause: Ἐν ἀρχῇ ἦν ὁ λόγος. Read the clause one word at a time, having the students repeat the word.
-      Next, read the clause in phrases as follows:
-      Ἐν ἀρχῇ (Invite the students to repeat what you read.)
-      ἦν (Students repeat)
-      ὁ λόγος (Students repeat)
-      Ἐν ἀρχῇ ἦν ὁ λόγος (Students repeat)
-      1. Pressing the spacebar will reveal the next clause: 
-      καὶ ὁ λόγος ἦν πρὸς τὸν θεόν.
-      Read and have students repeat as follows:
-      καὶ
-      καὶ ὁ λόγος
-      ἦν
-      πρὸς
-      τὸν
-      θεόν
-      καὶ ὁ λόγος
-      ἦν
-      πρὸς
-      τὸν θεόν
-      καὶ ὁ λόγος
-      ἦν
-      πρὸς τὸν θεόν
-      Now read the entire phrase slowly and have the students repeat it:
-      καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
+1. Pressing the spacebar will display the first clause: Ἐν ἀρχῇ ἦν ὁ λόγος. Read the clause one word at a time, having the students repeat the word.
+  Next, read the clause in phrases as follows:
+  Ἐν ἀρχῇ (Invite the students to repeat what you read.)
+  ἦν (Students repeat)
+  ὁ λόγος (Students repeat)
+  Ἐν ἀρχῇ ἦν ὁ λόγος (Students repeat)
   
-  1. Pressing the spacebar again will reveal the next clause:
-      καὶ θεὸς ἦν ὁ λόγος.
-      Read and have the students repeat as follows:
-      καὶ
-      θεὸς
-      καὶ θεὸς
-      ἦν
-      ὁ λόγος
-      καὶ θεὸς ἦν ὁ λόγος.
+1. Pressing the spacebar will reveal the next clause: 
+  καὶ ὁ λόγος ἦν πρὸς τὸν θεόν.
+  Read and have students repeat as follows:
+  καὶ
+  καὶ ὁ λόγος
+  ἦν
+  πρὸς
+  τὸν
+  θεόν
+  καὶ ὁ λόγος
+  ἦν
+  πρὸς
+  τὸν θεόν
+  καὶ ὁ λόγος
+  ἦν
+  πρὸς τὸν θεόν
+  Now read the entire phrase slowly and have the students repeat it:
+  καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
   
-  1. Press the spacebar again to reveal the final clause:
-      οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-      Read and have the students repeat as follows:
-      οὗτος (Make sure students pronounce the aspiration.)
-      ἦν
-      ἐν ἀρχῇ
-      οὗτος ἦν ἐν ἀρχῇ
-      πρὸς τὸν θεόν
-      οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
+1. Pressing the spacebar again will reveal the next clause:
+    καὶ θεὸς ἦν ὁ λόγος.
+    Read and have the students repeat as follows:
+    καὶ
+    θεὸς
+    καὶ θεὸς
+    ἦν
+    ὁ λόγος
+    καὶ θεὸς ἦν ὁ λόγος.
   
-  <h3>Building Comprehension: Ἐν ἀρχῇ ἦν ὁ λόγος</3>
+1. Press the spacebar again to reveal the final clause:
+    οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
+    Read and have the students repeat as follows:
+    οὗτος (Make sure students pronounce the aspiration.)
+    ἦν
+    ἐν ἀρχῇ
+    οὗτος ἦν ἐν ἀρχῇ
+    πρὸς τὸν θεόν
+    οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
   
-  1. Pressing either the spacebar or the right arrow will take you to <strong>section 3</strong>, where you will lead the students through processing the meaning of what they just read.
+<h3>Building Comprehension: Ἐν ἀρχῇ ἦν ὁ λόγος</3>
   
-  1. <strong>Slide 3.1</strong> displays the first clause again. Read it aloud and have the students repeat it.
+1. Pressing either the spacebar or the right arrow will take you to <strong>section 3</strong>, where you will lead the students through processing the meaning of what they just read.
+  
+1. <strong>Slide 3.1</strong> displays the first clause again. Read it aloud and have the students repeat it.
   Pressing the spacebar will reveal the word Ἐν in large print. Read it aloud. Have the students repeat it, then click the spacebar again.
   
-  1. <strong>Slide 3.2</strong> displays a small red ball (σφαῖρα) inside a glass (ποτήριον). Point directly at the ball, and say ἡ σφαῖρά ἐστιν <em>ἐν</em> τῇ τραπέζῃ. ἐν. ἐν.
+1. <strong>Slide 3.2</strong> displays a small red ball (σφαῖρα) inside a glass (ποτήριον). Point directly at the ball, and say ἡ σφαῖρά ἐστιν <em>ἐν</em> τῇ τραπέζῃ. ἐν. ἐν.
       Invite the students to repeat: ἐν.
   
-  1. <strong>Slide 3.3</strong> repeats the first clause: Ἐν ἀρχῇ ἦν ὁ λόγος. Press the space bar to reveal the word ἀρχῇ in large print. Say the word and have the students repeat it.
+1. <strong>Slide 3.3</strong> repeats the first clause: Ἐν ἀρχῇ ἦν ὁ λόγος. Press the space bar to reveal the word ἀρχῇ in large print. Say the word and have the students repeat it.
    
-   1. <strong>Slides 3.4 - 3.6</strong> contrast beginning and ending (ἡ ἀρχή and ἡ τελευτή). 
+1. <strong>Slides 3.4 - 3.6</strong> contrast beginning and ending (ἡ ἀρχή and ἡ τελευτή). 
       On <strong>slide 3.4</strong>, point to the beginning to the start of the maze and say ἡ ἀρχή. Have the students repeat the phrase.
       Trace your way through the maze with your finger. When you get to the end, say triumphantly: ἡ τελευτή! Have the students repeat the phrase.
    
-   1. <strong>Slide 3.5</strong> displays a handful of pumpkin seeds, a pumpkin flower, and a field full of ripe pumpkins. You will use pantomime here.
+1. <strong>Slide 3.5</strong> displays a handful of pumpkin seeds, a pumpkin flower, and a field full of ripe pumpkins. You will use pantomime here.
       Point to the first picture and say ἡ ἀρχή. 
       Cup your hands as if holding the seeds. 
       Begin to take one at a time and "plant" them. 
@@ -142,48 +145,48 @@
       Point to the picture of a field full of pumpkins and repeat, ἡ τελευτή. 
       Point one more time to the picture of a hand full of seeds and say, ἡ ἀρχή.
    
-   1. <strong>Slide 3.6</strong> displays the life-cycle of a frog. Point to the egg and say ἡ ἀρχή. 
+1. <strong>Slide 3.6</strong> displays the life-cycle of a frog. Point to the egg and say ἡ ἀρχή. 
       Trace the life cycle to the adult frog. Say, ἡ τελευτή.
    
-   1. <strong>Slide 3.7</strong> shows a runner at the beginning of a race and displays the question, ἀρχῇ ἢ τελευτή; Ask the question and wait for a response. The students should respond: ἀρχῇ or ἡ ἀρχή. When they do, say ναί, ἡ ἀρχή!
+1. <strong>Slide 3.7</strong> shows a runner at the beginning of a race and displays the question, ἀρχῇ ἢ τελευτή; Ask the question and wait for a response. The students should respond: ἀρχῇ or ἡ ἀρχή. When they do, say ναί, ἡ ἀρχή!
       Point to the starting line. Trace it with your finger and say, ἡ ἀρχή.
    
-   1. <strong>Slide 3.8</strong> shows a runner crossing the finish line and displays the same question. Ask the question again and wait for a response. The students should respond: τελευτή or ἡ τελευτή. When they do, say ναί, ἡ τελευτή!
+1. <strong>Slide 3.8</strong> shows a runner crossing the finish line and displays the same question. Ask the question again and wait for a response. The students should respond: τελευτή or ἡ τελευτή. When they do, say ναί, ἡ τελευτή!
       Trace the finish line with your finger and say ἡ τελευτή. Trace the tape the runner is breaking and say ἡ τελευτή.
    
-   1. <strong>Slide 3.9</strong> shows the same picture of a runner crossing the finish line, but only displays the phrase, Ἐν τελευτή. Point to the runner and say αὐτή. Point to her again, then to the finish line and say αὐτή ἐστιν <em>ἐν τελευτή</em>.
+1. <strong>Slide 3.9</strong> shows the same picture of a runner crossing the finish line, but only displays the phrase, Ἐν τελευτή. Point to the runner and say αὐτή. Point to her again, then to the finish line and say αὐτή ἐστιν <em>ἐν τελευτή</em>.
    
-   1. <strong>Slide 3.10</strong> shows the picture of a runner at the starting line and displays the phrase Ἐν ἀρχῇ. Point to the runner and say αὐτός ἐστιν ἐν ἀρχή. As you say ἐν ἀρχή, point to the starting line.
+1. <strong>Slide 3.10</strong> shows the picture of a runner at the starting line and displays the phrase Ἐν ἀρχῇ. Point to the runner and say αὐτός ἐστιν ἐν ἀρχή. As you say ἐν ἀρχή, point to the starting line.
    
-   1. <strong>Slide 3.11</strong> displays the full clause Ἐν ἀρχῇ ἦν ὁ λόγος again. Read it aloud, then press the space bar to reveal the word ἦν in large print.
+1. <strong>Slide 3.11</strong> displays the full clause Ἐν ἀρχῇ ἦν ὁ λόγος again. Read it aloud, then press the space bar to reveal the word ἦν in large print.
    
-   1. <strong>Slide 3.12</strong> displays the word ἦν and equates it with the English word "was." 
+1. <strong>Slide 3.12</strong> displays the word ἦν and equates it with the English word "was." 
       This is not a strategy we would use if the point were to teach the students to recognize ἦν in other contexts. Since that is not the focus of this lesson, however, we will keep the focus on the other words by simply supplying the English for this one. 
    
-   1. <strong>Slide 3.13</strong> repeats the clause: Ἐν ἀρχῇ ἦν ὁ λόγος with the word ἦν highlighted in blue. Read the clause aloud, then point to the word ἦν and read it aloud.
+1. <strong>Slide 3.13</strong> repeats the clause: Ἐν ἀρχῇ ἦν ὁ λόγος with the word ἦν highlighted in blue. Read the clause aloud, then point to the word ἦν and read it aloud.
    
-   1. <strong>Slides 3.14</strong> repeats the clause one more time. Read it aloud, then press the space bar to reveal the phrase ὁ λόγος in large print. Read the phrase and have the students repeat it.
+1. <strong>Slides 3.14</strong> repeats the clause one more time. Read it aloud, then press the space bar to reveal the phrase ὁ λόγος in large print. Read the phrase and have the students repeat it.
    
-   1. <strong>Slides 3.15 - 3.17</strong> each display the phrase ὁ λόγος, then when you press the space bar they display a single word greeting in a different language. On each slide, you will say ὁ λόγος, press the space bar, and read aloud the word that appears. (Don't worry. I'm going to tell you how to do that.)
+1. <strong>Slides 3.15 - 3.17</strong> each display the phrase ὁ λόγος, then when you press the space bar they display a single word greeting in a different language. On each slide, you will say ὁ λόγος, press the space bar, and read aloud the word that appears. (Don't worry. I'm going to tell you how to do that.)
    
-   1. The word on 3.15 is  نمستے ("namaste", a greeting in Urdu. You can hear the pronunciation <a href="https://en.wiktionary.org/wiki/namaste">here</a>).
+1. The word on 3.15 is  نمستے ("namaste", a greeting in Urdu. You can hear the pronunciation <a href="https://en.wiktionary.org/wiki/namaste">here</a>).
    
-   1. The word on 3.16 is Слухаю ("sluhayu" a greeting in Ukranian. You can hear its pronunciation <a href="https://forvo.com/word/uk/слухаю/">here</a>).
+1. The word on 3.16 is Слухаю ("sluhayu" a greeting in Ukranian. You can hear its pronunciation <a href="https://forvo.com/word/uk/слухаю/">here</a>).
    
-   1. The word on 3.17 is 喂 ("wéi", a telephone greeting in Mandarin Chinese. You can hear the pronunciation <a href="http://dictionary.hantrainerpro.com/chinese-english/translation-wei_hello.htm">here</a>).
+1. The word on 3.17 is 喂 ("wéi", a telephone greeting in Mandarin Chinese. You can hear the pronunciation <a href="http://dictionary.hantrainerpro.com/chinese-english/translation-wei_hello.htm">here</a>).
    
-   1. <strong>Slide 3.18</strong> displays the phrase οἱ λόγοι and a graphic of many Greek words. Read the phrase aloud. 
+1. <strong>Slide 3.18</strong> displays the phrase οἱ λόγοι and a graphic of many Greek words. Read the phrase aloud. 
       Point to any word in the graphic and say λόγος ἕν (holding up one finger). 
       Point to another word and say λόγος δύο (holding up two fingers). 
       Point to a third word and say λόγος τρεῖς (holding up three fingers), then to fourth one saying λόγος τέσσαρες (holding up four fingers).
       Finish by pointing the the phrase οἱ λόγοι again and reading it aloud. Have the students repeat: οἱ λόγοι.
    
-   1. <strong>Slide 3.19</strong> displays the clause Ἐν ἀρχῇ ἦν ὁ λόγος again, but when you press the spacebar it presents a graphic of two people and the question τίς ἦν ἐν ἀρχῇ;  Read the question aloud and wait for a response. If no response is forthcoming, reread the clause (Ἐν ἀρχῇ ἦν ὁ λόγος) emphasizing the words ὁ λόγος, then reread the question.
+1. <strong>Slide 3.19</strong> displays the clause Ἐν ἀρχῇ ἦν ὁ λόγος again, but when you press the spacebar it presents a graphic of two people and the question τίς ἦν ἐν ἀρχῇ;  Read the question aloud and wait for a response. If no response is forthcoming, reread the clause (Ἐν ἀρχῇ ἦν ὁ λόγος) emphasizing the words ὁ λόγος, then reread the question.
       The students should respond, ὁ λόγος. When they do, press the spacebar and say ναί. <em>ὁ λόγος</em> ἦν ἐν ἀρχῇ. The clause ὁ λόγος ἦν ἐν ἀρχῇ will be displayed on screen.
    
-   <h3>Building Comprehension: καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
+<h3>Building Comprehension: καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
    
-   1. Pressing the spacebar again will now take you to <strong>section 4</strong>. This section begins with a blank screen (<strong>slide 4.1</strong>). 
+1. Pressing the spacebar again will now take you to <strong>section 4</strong>. This section begins with a blank screen (<strong>slide 4.1</strong>). 
    Tap the spacebar to review the clause Ἐν ἀρχῇ ἦν ὁ λόγος, before moving on. Have the students repeat the clause. 
    Tap the spacebar again to display the second clause: 
       καὶ ὁ λόγος ἦν πρὸς τὸν θεόν. Since you read through this clause earlier without discussing its meaning, reading it a second time now can be done in longer segments as follows:
@@ -312,6 +315,3 @@
   
   1. <strong>Slide 7.15</strong> is the final slide. It displays a Greek question mark (;). This will be our marker for introducing the question time. Allow student to ask questions in English since this is the very first lesson.
   Use this time to try to lower anxiety. Students have seen and heard a lot that they will not remember later. Remind them of the language objective: (ναί, οὔ, ἤ, τίς). Ask if they understand those words now. If they do, they have succeded!
-
-
-      [Add material on slides 7.12 - 7.15.]
