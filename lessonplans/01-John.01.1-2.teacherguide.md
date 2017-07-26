@@ -1,7 +1,7 @@
 <h1>Teacher's Guide for Lesson One: John 1:1-2</h1>
 
-1. <strong>Language Objectives</strong>:
-  Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή;) and τίς (e.g. τίς ἦν ἐν ἀρχῇ;) An activity to teach this: ask each student Τίς ει; or Συ τίς ει; After names are established, point to someone and give two names, e.g. Ἰωνάθαν ἢ Μιχαήλ; or τίς ἐστίν; Ἰωνάθαν ἢ Μιχαήλ;
+1. <strong>Language Objective</strong>:
+  Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using ἢ (e.g. ἀρχῇ ἢ τελευτή;) and τίς (e.g. τίς ἦν ἐν ἀρχῇ;). They will use the forms ναί and οὔ when appropriate.
   
 1. <strong>Exposure</strong>:
   Students are exposed to the following skills, but not yet given enough practice to master them: questions using πρὸς τίνα (e.g. πρὸς τίνα ἦν ὁ λόγος ἐν ἀρχῇ;), questions using πότε (e.g. πότε ἦν ὁ λόγος πρὸς τὸν θεόν;), reading and writing the alphabet for letters used in the text, pronunciation of these words.
@@ -42,12 +42,22 @@
 1. <strong>Slides 1.5 — 1.8</strong> reverse this procedure, displaying the emoji and expecting the students to supply the word. When you click the spacebar, the word will be added.
 
 1. <strong>Slide 1.9</strong> introduces ἤ. Say the word and use your agreed upon hand signal to prompt the students to repeat it.
-    <stong>Optional Exercise</stong>
-      Pick up the cup you brought and say slowly ποτήριον, ποτήριον. Invite the students to repeat the word, then assure them (in English: "You will not need to know this word after today. Just practice saying in for now.").
-      Sit the cup down and pick up the ball. Say slowly: "σφαῖρα, σφαῖρα." Have the students repeat the word. 
-      Place both the ποτήριον and the σφαῖρα on the table (ἐπὶ τῆς τραπέζας). Look at them thoughfully as if considerting which one to pick up. Pause. Pick up the ball. Ask, σφαῖρα ἤ ποτήριον; (As you ask the question, point to the word ἤ on the screen.) Repeat the question. Students should respond: σφαῖρα.
-      Use ναὶ to confirm correct answers or οὒ to gently challenge incorrect ones (ναί, σφαῖρα - with a big smile, or οὔ - with a thoughtful expression).
-      Repeat with the cup (τὸ ποτήριον).
+  With this single word displayed on the screen, use the following dialogue to introduce the students' names:
+  * Τίς ει; or Συ, τίς ει;
+  * Εἰμὶ [name].
+  Once the names are established point to someone and with a questioning look, give two names, e.g. 
+  * Teacher: [name 1] ἢ [name 2]; 
+  * Student: [correct name]
+  After a few times through this version, switch to the third person:
+  * Teacher (pointing to one students, but looking at the rest of the class): τίς ει; [name 1] ἢ [name 2];
+  * Students respond with the appropriate name.
+  
+  <stong>Optional Exercise</stong>
+  Pick up the cup you brought and say slowly ποτήριον, ποτήριον. Invite the students to repeat the word, then assure them (in English: "You will not need to know this word after today. Just practice saying in for now.").
+  Sit the cup down and pick up the ball. Say slowly: "σφαῖρα, σφαῖρα." Have the students repeat the word. 
+  Place both the ποτήριον and the σφαῖρα on the table (ἐπὶ τῆς τραπέζας). Look at them thoughfully as if considerting which one to pick up. Pause. Pick up the ball. Ask, σφαῖρα ἤ ποτήριον; (As you ask the question, point to the word ἤ on the screen.) Repeat the question. Students should respond: σφαῖρα.
+  Use ναὶ to confirm correct answers or οὒ to gently challenge incorrect ones (ναί, σφαῖρα - with a big smile, or οὔ - with a thoughtful expression).
+  Repeat with the cup (τὸ ποτήριον).
 
 1. <strong>Slide 1.10</strong> has the thumbs up emoji with the question ναὶ ἢ οὔ;. Ask the question and point to the emoji. Students should respond ναί. If they do not, supply the answer yourself and repeat the question. Clicking the spacebar will reveal the answer.
       
