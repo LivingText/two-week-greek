@@ -8,11 +8,11 @@ Using single-words or short phrases drawn from the text, students will respond a
     * αὐτὸς ἐστιν
     * αὐτὴ ἐστιν
 
-<strong>Exposure</strong>:
+<strong>Exposure</strong>: While the vocabulary contained in John 1:3-4 is taught explicitly, other words that will become relevant later are included merely to expose the students to them without the pressure of having to acquire them now.
 
-<strong>Sample questions</strong>:
+<strong>Sample questions</strong>: τίς ἐστιν; τίς εἶ τί ἐστιν; 
 
-<strong>TPR opportunities</strong>:
+<strong>TPR opportunities</strong>: 
 
 <strong>Resources</strong>:
 
@@ -32,15 +32,13 @@ Read each phrase aloud and have the students repeat it. Do this more than once.
 
 1. <strong>Slide 1.4</strong> shows a little girl pointing directly at the camara. Point to a student whos name you know. Say σὺ εἶ [the student's name]. Repeat this with other students if you know their names. If not, approach a student, point to him or her, and <i>ask</i>, σὺ εἶ; The student should say his or her name.
 
-1. <strong>Slide 1.5</strong> displays the phrase αὐτός ἐστιν and shows a baseball player. We see the hand of someone off camara pointing to him. 
-Point to a male student and say to the rest of the class αὐτός ἐστιν [student's name]. Repeat this with other students if you can. For a student whose name you do not know, point to the student and ask, αὐτός ἐστιν; The students should supply the name of the student you indicate.
-<em>If there are no male students in your class</em>, point to the man in the picture and say, αὐτός ἐστιν Eddie. 
-[Eddie Grant was a third baseman for the Cincinnati Reds.]
+1. <strong>Slide 1.5</strong> displays the phrase αὐτός ἐστιν and shows a baseball player. We see the hand of someone off camara pointing to him. Point to a male student and say to the rest of the class αὐτός ἐστιν [student's name]. Repeat this with other students if you can. For a student whose name you do not know, point to the student and ask, αὐτός ἐστιν; The students should supply the name of the student you indicate.
+<em>If there are no male students in your class</em>, point to the man in the picture and say, αὐτός ἐστιν Eddie. (Eddie Grant was a third baseman for the Cincinnati Reds.)
 
 1. <strong>Slide 1.6</strong> displays the phrase αὐτή ἐστιν and shows two young girls pointing to each other. Point to a female student whose name you know and say αὐτή ἐστιν [student's name]. 
-<em>If there are no female students in your class</em>, point to the girl with the striped shirt in the picture and say αὐτή ἐστιν Μειλίν. [We don't actually know her name, but that's not relevant. The point is to teach the meaning of αὐτή ἐστιν.]
+<em>If there are no female students in your class</em>, point to the girl with the striped shirt in the picture and say αὐτή ἐστιν Μειλίν. (We don't actually know her name, but that's not relevant. The point is to teach the meaning of αὐτή ἐστιν.)
 
-<h3>Questions</h3>
+<h3>Understanding and Answering Questions</h3>
 
 1. <strong>Slide 1.7</strong> presents the statment ἐγὼ εἰμὶ ᾿Ιωνάθαν followed by three questions. Point to the statement and read it aloud: ἐγὼ εἰμὶ ᾿Ιωνάθαν. Have the students repeat it. 
 
@@ -91,7 +89,7 @@ Point to the last line and read it aloud: πρὸς αὐτήν. Have the stude
 
 1. Read each of these phrases aloud and have the students repeat it.
 
-1. <strong>Slides 1:11 - 1.22</strong> each present a numinative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
+1. <strong>Slides 1:11 - 1.22</strong> each present a nominative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
 
 1. <strong>Slides 1:11</strong>: Read the noun phrase: ὁ θεός with a confident voice. Read πρὸς... as if you don't know what should follow it. Look uncertain to try to elicit a response from one of the students. If no one responds, reread ὁ θεός with a confident voice, then point to πρὸς and with a cautious voice say πρὸς... τὸν θεόν. Quickly repeat it with confidence: πρὸς τὸν θεόν!
 
@@ -327,6 +325,6 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. <strong>Slides 7.8 - 7.13</strong> each present a nominative case pronoun or noun. On each slide press the spacebar to reveal the preposition πρός. On the first one (<strong>slide 7.8</strong>), the text reads ὁ θεός. Press the spacebar to reveal πρός, then say πρὸς τὸν θεόν. Press the spacebar again to reveal τὸν θεόν.
 
-1. On each of the other slides (<strong>7.9 - 7.13</strong>), reveal read the initial text, reveal πρός, and wait for the students to complete the phrase before revealing the rest.
+1. On each of the other slides (<strong>7.9 - 7.13</strong>), read the initial text, reveal πρός, and wait for the students to complete the phrase before revealing the rest.
 
 1. As with the first lesson, the Greek question mark (;) appears on the final screen (<strong>7.14</strong>). This signals question and discussion time. Allow students to ask questions in English, but encourage them to use Greek where they can. Your responses should use Greek as much as possible as well, but comprehension in paramount in this section, so do what you must to insure understanding.
