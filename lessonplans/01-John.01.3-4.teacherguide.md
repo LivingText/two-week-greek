@@ -12,7 +12,7 @@ Using single-words or short phrases drawn from the text, students will respond a
 
 <strong>Sample questions</strong>: τίς ἐστιν; τίς εἶ τί ἐστιν; 
 
-<strong>TPR opportunities</strong>: Answering questions posed directly to individual students, moving around the classroom in response to instructions issued using πρός, 
+<strong>TPR opportunities</strong>: Answering questions posed directly to individual students, moving around the classroom in response to instructions issued using πρός.
 
 <strong>Resources</strong>: For this lesson you will not need any materials other than a means to show the presentation.
 
