@@ -22,6 +22,7 @@ Using single-words or short phrases drawn from the text, students will respond a
 
 1. <strong>Slide 1.2</strong> displays the phrases that will be the target of this lesson. It is not necessary that the students understand them now. They simply need to hear them, say them, and understand that they will be the focus of today's lesson. Feel free to tell them that in English.
 Read each phrase aloud and have the students repeat it. Do this more than once.
+
   * ἐγὼ εἰμι
   * σὺ εἶ
   * αὐτὸς ἐστιν
@@ -64,6 +65,7 @@ Point to a male student and say to the rest of the class αὐτός ἐστι�
 1. Repeat this same procedure with each of the other rows in the table.
 
 1. <strong>Slide 1.9</strong> repeats the accusative case forms of the pronouns from the previous slide with πρός. 
+
   * πρός με
   * πρός σε
   * πρὸς αὐτόν
@@ -83,6 +85,7 @@ Point to the last line and read it aloud: πρὸς αὐτήν. Have the stude
 1. Walk to one student, but point to a different student, and say ἐλθὲ πρὸς αὐτόν (if the student to who you are pointing is male) or ἐλθὲ πρὸς αὐτήν (if she is female). If the student in front of you walks to the one to whom you pointed, look delighted and say καλόν! Repeat this with at least two more students.
 
 <strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
+
   * πρὸς τὸν θεόν and 
   * πρὸς τὸν λόγον. 
 
@@ -105,6 +108,7 @@ Take a moment to explain in English:
 We are about to read John 1:3-4. You are unlikely to understand much on the first reading. That is not a reason to worry. Just listen to the pronunciation and try our best to repeat it.
 
 1. Tap the spacebar to reveal the first clause: πάντα δι’ αὐτοῦ ἐγένετο. Read through the clause one word at a time, then in chunks as follows:
+
   * πάντα
   * δι’ 
   * αὐτοῦ
@@ -117,6 +121,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
   * πάντα δι’ αὐτοῦ ἐγένετο
 
 1. Tap the spacebar again to reveal the second clause: καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. Again, read the clause one word at a time, then in chunks, then the entire clause.
+
   * καὶ
   * χωρὶς
   * αὐτοῦ
@@ -131,6 +136,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
   * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν
 
 1. Tap the spacebar to reveal the third clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Follow the same procedure as with the previous clauses:
+
   * ὃ
   * γέγονεν
   * ἐν
@@ -145,6 +151,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
   * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν
 
 1. Tap the spacebar one more time to reveal the last clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Follow the same procedure as with the other clauses:
+
   * καὶ
   * ἡ
   * ζωὴ
@@ -250,6 +257,7 @@ Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντ
 1. <strong>Slide 5.5</strong> repeats the new clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Read it aloud and have the students repeat. Press the spacebar to reveal the words ἐν αὐτῷ in large print. Read the words and have the students repeat them.
 
 1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing:
+
   * ἐγένετο <em>ἐν αὐτῷ</em>
   * ἐγένετο <em>δι’ αὐτοῦ</em>
 
@@ -285,6 +293,7 @@ Read each statement and have the students repeat it. Point to the = sign and say
 <h3>Building Comprehension: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων</h3>
 
 1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 6</strong> (<stong>slide 6.1</stong>). As with the other sections, this one begins with a blank slide. Press the spacebar to review the text already discussed one clause at a time. Read each clause aloud and have the students repeat it.
+
   * πάντα δι’ αὐτοῦ ἐγένετο,
   * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.
   * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν,
