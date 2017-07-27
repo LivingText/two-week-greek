@@ -8,13 +8,13 @@ Using single-words or short phrases drawn from the text, students will respond a
     * αὐτὸς ἐστιν
     * αὐτὴ ἐστιν
 
-<strong>Exposure</strong>: While the vocabulary contained in John 1:3-4 is taught explicitly, other words that will become relevant later are included merely to expose the students to them without the pressure of having to acquire them now.
+<strong>Exposure</strong>: While the vocabulary contained in John 1:3-4 is taught explicitly, other words and structures that will become relevant later are included merely to expose the students to them without the pressure of having to acquire them now (ἐκείνος, ἡ τράπεζα, μετά, κατέλαβες [καταλαμβάνω]).
 
 <strong>Sample questions</strong>: τίς ἐστιν; τίς εἶ τί ἐστιν; 
 
-<strong>TPR opportunities</strong>: 
+<strong>TPR opportunities</strong>: Answering questions posed directly to individual students, moving around the classroom in response to instructions issued using πρός, 
 
-<strong>Resources</strong>:
+<strong>Resources</strong>: For this lesson you will not need any materials other than a means to show the presentation.
 
 <h2>Language Mini-Lesson: Pronouns</h2>
 
@@ -183,7 +183,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. Point to one person and say κάθου (motioning for the person to sit down). Look at the class and ask πάντες ἑστήκαμεν; Answer your own question: οὔ. αὐτὸς / αὐτὴ οὔ ἕστηκε. <em>οὔ πάντες</em> ἑστήκαμεν.
 
-1. Empty your pockets or a bag onto a table or desk. Show the empty pockets or bag, then point to the things on the table/desk and say πάντα ἐν τῇ τραπέζᾴ ἐστιν.
+1. Empty your pockets or a bag onto a table or desk. Show the empty pockets or bag, then point to the things on the table/desk and say πάντα ἐν τῇ τράπεζᾳ ἐστιν.
 
 1. <strong>Slide 3.4</strong> illustrates breathing marks. The students have seen the two forms ἐν and ἕν, and this slide is aimed at clarifying the difference. Read the first line aloud: ἐ ... ἑ. Have the students repeat what they heard. Listen for the aspiration on ἑ. Repeat this sequence until you can clearly hear that your students pronounce ἐ without aspiration and ἑ with aspiration.
 
@@ -281,7 +281,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. <strong>Slide 5.13</strong> has the same title (τίς; τί;) but only shows one option. Jesus is circled in Leonardo da Vinci's "Last Supper. Ask, τίς; and wait for an answer. Someone may volunteer, "Jesus." If so, congratulate the student saying, ναί. ὁ Ἰησοῦς ἐστιν!
 
-1. <strong>Slide 5.14</strong> shows the same painting, but with the table circled. Ask, τί; and wait a few seconds, then point to the table and say ἡ τραπέζά ἐστιν.
+1. <strong>Slide 5.14</strong> shows the same painting, but with the table circled. Ask, τί; and wait a few seconds, then point to the table and say ἡ τράπεζά ἐστιν.
 
 1. <strong>Slide 5.15</strong> returns the focus to the text by repeating the focal clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Press the spacebar to reveal the question, <em>τί</em> ἦν ὃ γέγονεν ἐν αὐτῷ; Ask the question and wait for a response. Someone may offer, ζωή or ἡ ζωή. If so, congratulate the student saying καλός! ὃ γέγονεν ἐν αὐτῷ <em>ζωὴ</em> ἦν. Press the spacebar to reveal a differently worded version of the answer: <em>ἡ ζωὴ</em> ἦν ὃ γέγονεν ἐν αὐτῷ. Read it aloud and have the students repeat it.
 
