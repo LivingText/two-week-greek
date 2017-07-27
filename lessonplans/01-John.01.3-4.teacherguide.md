@@ -3,18 +3,18 @@
 <strong>Language Objectives</strong>:
 Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using the singular forms of personal pronouns and the verb εἰμί: 
 
-  * ἐγὼ εἰμι
-  * σὺ εἶ
-  * αὐτὸς ἐστιν
-  * αὐτὴ ἐστιν
+    * ἐγὼ εἰμι
+    * σὺ εἶ
+    * αὐτὸς ἐστιν
+    * αὐτὴ ἐστιν
 
 <strong>Exposure</strong>:
 
 <strong>Sample questions</strong>:
 
-<strong>TPR opportunities</strong>
+<strong>TPR opportunities</strong>:
 
-<strong>Resources</strong>
+<strong>Resources</strong>:
 
 <h2>Language Mini-Lesson: Pronouns</h2>
 
@@ -23,10 +23,10 @@ Using single-words or short phrases drawn from the text, students will respond a
 1. <strong>Slide 1.2</strong> displays the phrases that will be the target of this lesson. It is not necessary that the students understand them now. They simply need to hear them, say them, and understand that they will be the focus of today's lesson. Feel free to tell them that in English.
 Read each phrase aloud and have the students repeat it. Do this more than once.
 
-  * ἐγὼ εἰμι
-  * σὺ εἶ
-  * αὐτὸς ἐστιν
-  * αὐτὴ ἐστιν
+    * ἐγὼ εἰμι
+    * σὺ εἶ
+    * αὐτὸς ἐστιν
+    * αὐτὴ ἐστιν
 
 1. <strong>Slide 1.3</strong> display's the phrase ἐγὼ εἰμί a man (Jonathan) pointing to himself. Point to yourself and say, ἐγὼ εἰμί [your name].
 
@@ -66,10 +66,10 @@ Point to a male student and say to the rest of the class αὐτός ἐστι�
 
 1. <strong>Slide 1.9</strong> repeats the accusative case forms of the pronouns from the previous slide with πρός. 
 
-  * πρός με
-  * πρός σε
-  * πρὸς αὐτόν
-  * πρὸς αὐτήν
+    * πρός με
+    * πρός σε
+    * πρὸς αὐτόν
+    * πρὸς αὐτήν
 
 Read the first line (πρός με) and have the students repeat it.
 
@@ -86,8 +86,8 @@ Point to the last line and read it aloud: πρὸς αὐτήν. Have the stude
 
 <strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
 
-  * πρὸς τὸν θεόν and 
-  * πρὸς τὸν λόγον. 
+    * πρὸς τὸν θεόν and 
+    * πρὸς τὸν λόγον. 
 
 Read each of these phrases aloud and have the students repeat it.
 
@@ -109,63 +109,63 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. Tap the spacebar to reveal the first clause: πάντα δι’ αὐτοῦ ἐγένετο. Read through the clause one word at a time, then in chunks as follows:
 
-  * πάντα
-  * δι’ 
-  * αὐτοῦ
-  * ἐγένετο
-  * πάντα
-  * δι’ αὐτοῦ
-  * ἐγένετο
-  * πάντα
-  * δι’ αὐτοῦ ἐγένετο
-  * πάντα δι’ αὐτοῦ ἐγένετο
+    * πάντα
+    * δι’ 
+    * αὐτοῦ
+    * ἐγένετο
+    * πάντα
+    * δι’ αὐτοῦ
+    * ἐγένετο
+    * πάντα
+    * δι’ αὐτοῦ ἐγένετο
+    * πάντα δι’ αὐτοῦ ἐγένετο
 
 1. Tap the spacebar again to reveal the second clause: καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. Again, read the clause one word at a time, then in chunks, then the entire clause.
 
-  * καὶ
-  * χωρὶς
-  * αὐτοῦ
-  * ἐγένετο
-  * οὐδὲ
-  * ἕν
-  * καὶ χωρὶς αὐτοῦ
-  * ἐγένετο
-  * οὐδὲ ἕν
-  * καὶ χωρὶς αὐτοῦ
-  * ἐγένετο οὐδὲ ἕν
-  * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν
+    * καὶ
+    * χωρὶς
+    * αὐτοῦ
+    * ἐγένετο
+    * οὐδὲ
+    * ἕν
+    * καὶ χωρὶς αὐτοῦ
+    * ἐγένετο
+    * οὐδὲ ἕν
+    * καὶ χωρὶς αὐτοῦ
+    * ἐγένετο οὐδὲ ἕν
+    * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν
 
 1. Tap the spacebar to reveal the third clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Follow the same procedure as with the previous clauses:
 
-  * ὃ
-  * γέγονεν
-  * ἐν
-  * αὐτῷ
-  * ζωὴ
-  * ἦν
-  * ὃ γέγονεν
-  * ἐν αὐτῷ
-  * ζωὴ ἦν
-  * ὃ γέγονεν ἐν αὐτῷ
-  * ζωὴ ἦν
-  * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν
+    * ὃ
+    * γέγονεν
+    * ἐν
+    * αὐτῷ
+    * ζωὴ
+    * ἦν
+    * ὃ γέγονεν
+    * ἐν αὐτῷ
+    * ζωὴ ἦν
+    * ὃ γέγονεν ἐν αὐτῷ
+    * ζωὴ ἦν
+    * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν
 
 1. Tap the spacebar one more time to reveal the last clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Follow the same procedure as with the other clauses:
 
-  * καὶ
-  * ἡ
-  * ζωὴ
-  * ἦν
-  * τὸ
-  * φῶς
-  * τῶν
-  * ἀνθρώπων
-  * καὶ ἡ ζωὴ
-  * ἦν τὸ φῶς
-  * τῶν ἀνθρώπων
-  * καὶ ἡ ζωὴ ἦν
-  * τὸ φῶς τῶν ἀνθρώπων
-  * καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων
+    * καὶ
+    * ἡ
+    * ζωὴ
+    * ἦν
+    * τὸ
+    * φῶς
+    * τῶν
+    * ἀνθρώπων
+    * καὶ ἡ ζωὴ
+    * ἦν τὸ φῶς
+    * τῶν ἀνθρώπων
+    * καὶ ἡ ζωὴ ἦν
+    * τὸ φῶς τῶν ἀνθρώπων
+    * καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων
 
 <h3>Building Comprehension: πάντα δι’ αὐτοῦ ἐγένετο</h3>
 
@@ -258,8 +258,8 @@ Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντ
 
 1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing:
 
-  * ἐγένετο <em>ἐν αὐτῷ</em>
-  * ἐγένετο <em>δι’ αὐτοῦ</em>
+    * ἐγένετο <em>ἐν αὐτῷ</em>
+    * ἐγένετο <em>δι’ αὐτοῦ</em>
 
 Both forms are used in the text we are studying.
 Read each statement and have the students repeat it. Point to the = sign and say ἐγένετο <em>ἐν αὐτῷ</em> καὶ ἐγένετο <em>δι’ αὐτοῦ</em> ἴσός ἐστιν. As you say the word ἴσος encircle the sign with your finger.
@@ -294,9 +294,9 @@ Read each statement and have the students repeat it. Point to the = sign and say
 
 1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 6</strong> (<stong>slide 6.1</stong>). As with the other sections, this one begins with a blank slide. Press the spacebar to review the text already discussed one clause at a time. Read each clause aloud and have the students repeat it.
 
-  * πάντα δι’ αὐτοῦ ἐγένετο,
-  * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.
-  * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν,
+    * πάντα δι’ αὐτοῦ ἐγένετο,
+    * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.
+    * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν,
 
 1. Pressing the spacebar one more time will reveil the next focal clause (καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·) in blue text. Read it aloud and have the students repeat it.
 
