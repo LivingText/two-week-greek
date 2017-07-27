@@ -2,6 +2,7 @@
 
 <strong>Language Objectives</strong>:
 Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using the singular forms of personal pronouns and the verb εἰμί: 
+
     * ἐγὼ εἰμι
     * σὺ εἶ
     * αὐτὸς ἐστιν
