@@ -71,7 +71,7 @@ Point to a male student and say to the rest of the class αὐτός ἐστι�
     * πρὸς αὐτόν
     * πρὸς αὐτήν
 
-Read the first line (πρός με) and have the students repeat it.
+1. Read the first line (πρός με) and have the students repeat it.
 
 1. Look at a student and say ἐλθὲ πρός με (motioning for the student to approach you). When the student arrives, look at the class and say [the student's name] ἐστι <em>πρὸς με</em>. Smile at the student who came and motion toward his or her seat. Repeat this demonstration with at least two more students.
 
@@ -84,16 +84,16 @@ Point to the last line and read it aloud: πρὸς αὐτήν. Have the stude
 
 1. Walk to one student, but point to a different student, and say ἐλθὲ πρὸς αὐτόν (if the student to who you are pointing is male) or ἐλθὲ πρὸς αὐτήν (if she is female). If the student in front of you walks to the one to whom you pointed, look delighted and say καλόν! Repeat this with at least two more students.
 
-<strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
+1. <strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
 
     * πρὸς τὸν θεόν and 
     * πρὸς τὸν λόγον. 
 
-Read each of these phrases aloud and have the students repeat it.
+1. Read each of these phrases aloud and have the students repeat it.
 
-<strong>Slides 1:11 - 1.22</strong> each present a numinative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
+1. <strong>Slides 1:11 - 1.22</strong> each present a numinative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
 
-<strong>Slides 1:11</strong>: Read the noun phrase: ὁ θεός with a confident voice. Read πρὸς... as if you don't know what should follow it. Look uncertain to try to elicit a response from one of the students. If no one responds, reread ὁ θεός with a confident voice, then point to πρὸς and with a cautious voice say πρὸς... τὸν θεόν. Quickly repeat it with confidence: πρὸς τὸν θεόν!
+1. <strong>Slides 1:11</strong>: Read the noun phrase: ὁ θεός with a confident voice. Read πρὸς... as if you don't know what should follow it. Look uncertain to try to elicit a response from one of the students. If no one responds, reread ὁ θεός with a confident voice, then point to πρὸς and with a cautious voice say πρὸς... τὸν θεόν. Quickly repeat it with confidence: πρὸς τὸν θεόν!
 
 1. With <strong>Slides 1:12 - 1.22</strong> the students should understand what to do. If they still seem confused, work through slide 1.12 the same was as you did with 1.11.
 
@@ -173,9 +173,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. Tap the spacebar to reveal the word πάντα in very large print. Point to the word, read it aloud, and have the students repeat it.
 
-1. <strong>Slide 3.2</strong> displays the question πάντα ἢ οὐδὲ ἕν; accompanied by an image of two circles, one filled with stick people and the other empty.
-
-We will work on the meanings of πάντα and οὐδὲ ἕν in the next few slides.
+1. <strong>Slide 3.2</strong> displays the question πάντα ἢ οὐδὲ ἕν; accompanied by an image of two circles, one filled with stick people and the other empty. (We will work on the meanings of πάντα and οὐδὲ ἕν in the next few slides.)
 
 1. Point to the circle filled with stick people. Say πάντα. Start to count the stick figures, ἕν, δύο, τρεῖς, τέσσαρες, πέντε, ἕξ. . . πάντα!
 
@@ -206,7 +204,7 @@ We will work on the meanings of πάντα and οὐδὲ ἕν in the next few 
 
 1. <strong>Slide 3.10</strong> shows an emoji of two people and the question, διὰ τίνος; Above the question is printed the equation δι’ = διά in small print. Point to the equation and say δι’ ἴσος διά. Point to the = when you say ἴσος.
 
-Now read the question aloud and have the students repeat it. Shrug your shoulders and with a questioning expression say,  διὰ τίνος;
+1. Now read the question aloud and have the students repeat it. Shrug your shoulders and with a questioning expression say,  διὰ τίνος;
 
 1. <strong>Slide 3.11</strong> begins with the clause ἐγένετο δι’ αὐτοῦ. When you tap the spacebar, the question ἐγένετο <em>διὰ τίνος</em>; appears. Read the question emphasizing the words διὰ τίνος, then wait for a response. The students may respond with δι’ αὐτοῦ. 
 
@@ -219,7 +217,7 @@ Now read the question aloud and have the students repeat it. Shrug your shoulder
 1. <strong>Slide 3.13</strong> repeats the clause πάντα δι’ αὐτοῦ ἐγένετο. When you press the spacebar the question τίς ἐγένετο
 διὰ τοῦ λόγου; appears. Read the question at a moderate to slow pace and wait for a response. This question may take some processing, so be patient!
 
-Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντα</em> ἐγένετο διὰ τοῦ λόγου and press the spacebar to reveal the answer. If no one answers, wait several seconds before pressing the spacebar and revealing the answer. When you reveal the answer, read it aloud and have the students repeat it.
+1. Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντα</em> ἐγένετο διὰ τοῦ λόγου and press the spacebar to reveal the answer. If no one answers, wait several seconds before pressing the spacebar and revealing the answer. When you reveal the answer, read it aloud and have the students repeat it.
 
 <h3>Building Comprehension: καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν</h3>
 
@@ -256,13 +254,12 @@ Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντ
 
 1. <strong>Slide 5.5</strong> repeats the new clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Read it aloud and have the students repeat. Press the spacebar to reveal the words ἐν αὐτῷ in large print. Read the words and have the students repeat them.
 
-1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing:
+1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing. (Both forms are used in the text we are studying.)
 
     * ἐγένετο <em>ἐν αὐτῷ</em>
     * ἐγένετο <em>δι’ αὐτοῦ</em>
 
-Both forms are used in the text we are studying.
-Read each statement and have the students repeat it. Point to the = sign and say ἐγένετο <em>ἐν αὐτῷ</em> καὶ ἐγένετο <em>δι’ αὐτοῦ</em> ἴσός ἐστιν. As you say the word ἴσος encircle the sign with your finger.
+1. Read each statement and have the students repeat it. Point to the = sign and say ἐγένετο <em>ἐν αὐτῷ</em> καὶ ἐγένετο <em>δι’ αὐτοῦ</em> ἴσός ἐστιν. As you say the word ἴσος encircle the sign with your finger.
 
 1. <strong>Slide 5.7</strong> displays the question ἐν τίνι; and the emoji of two people. Read the question aloud, and have the students repeat it.
 
