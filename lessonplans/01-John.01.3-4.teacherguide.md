@@ -275,7 +275,47 @@ Read each statement and have the students repeat it. Point to the = sign and say
 
 1. <strong>Slide 5.14</strong> shows the same painting, but with the table circled. Ask, τί; and wait a few seconds, then point to the table and say ἡ τραπέζά ἐστιν.
 
-1. <strong>Slide 5.15</strong> returns the focus to the text by repeating the focal clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Press the spacebar to reveal the question, <em>τί</em> ἦν ὃ γέγονεν ἐν αὐτῷ; Ask the question and wait for a response. Someone may offer, ζωή or ἡ ζωή. If so, congratulate the student saying καλός! ὃ γέγονεν ἐν αὐτῷ <em>ζωὴ</em> ἦν. Press the spacebar to reveal a differently worded version of the answer: <em>ἡ ζωὴ</em> ἦν ὃ γέγονεν ἐν αὐτῷ.
+1. <strong>Slide 5.15</strong> returns the focus to the text by repeating the focal clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Press the spacebar to reveal the question, <em>τί</em> ἦν ὃ γέγονεν ἐν αὐτῷ; Ask the question and wait for a response. Someone may offer, ζωή or ἡ ζωή. If so, congratulate the student saying καλός! ὃ γέγονεν ἐν αὐτῷ <em>ζωὴ</em> ἦν. Press the spacebar to reveal a differently worded version of the answer: <em>ἡ ζωὴ</em> ἦν ὃ γέγονεν ἐν αὐτῷ. Read it aloud and have the students repeat it.
 
-1. 
+<h3>Building Comprehension: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων</h3>
 
+1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 6</strong> (<stong>slide 6.1</stong>). As with the other sections, this one begins with a blank slide. Press the spacebar to review the text already discussed one clause at a time. Read each clause aloud and have the students repeat it.
+* πάντα δι’ αὐτοῦ ἐγένετο,
+* καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.
+* ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν,
+
+1. Pressing the spacebar one more time will reveil the next focal clause (καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·) in blue text. Read it aloud and have the students repeat it.
+
+1. <strong>Slide 6.2</strong> repeats the new focal clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Press the spacebar to reveal the phrase τὸ φῶς in large print. Read it aloud and have the students repeat it. The next few slides will make its meaning clear.
+
+1. <strong>Slide 6.3</strong> shows a flashlight. Point to it and say, τὸ φῶς. Invite the students to repeat.
+
+1. <strong>Slide 6.4</strong> shows an oil lamp. Point to it and say τὸ φῶς. Invite the students to repeat.
+
+1. Point to the flame on the lamp and say, τὸ φῶς.
+
+1. <strong>Slide 6.5</strong> contains only the question, τί;  Ask the question, and have the students repeat it.
+
+1. <strong>Slide 6.6</strong> repeats the focal clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Press the spacebar to reveal the question, <em>τί</em> ἦν ἡ ζωή; Read the question and wait for a response. 
+
+1. Students may respond, τὸ φῶς or τὸ φῶς τῶν ἀνθρώπων. If they do, congratulate them with καλόν. <em>τὸ φῶς τῶν ἀνθρώπων</em> ἦν ἡ ζωὴ. Tap the spacebar to reveal this answer, and invite the students to repeat it.
+
+1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 7</strong> (<strong>slide 7.1</strong>). The slide has the question κατέλαβες; at the top and a picture of a child looking with confusion at a camara or cellphone. It is not important that the students learn the verb form κατέλαβες at this point. The question means roughly "Do you get it?" or "Do you understand?" It is intended to introduce the review section of the lesson.
+
+1. <strong>Slide 7.2</strong> opens with the first clause from lesson one: Ἐν ἀρχῇ ἦν ὁ λόγος. Read it aloud and invite the students to repeat it. Press the spacebar once for each of the other clauses covered in that first lesson, reading each aloud and inviting the students to repeat.
+
+1. <strong>Slide 7.3</strong> does the same with the clauses from this lesson. Use the same procedure.
+
+1. <strong>Slide 7.4</strong> begins a review of the pronouns we have introduced in this lesson. Point to yourself and say ἐγώ. Point to the space <i>before</i> the word εἰμι on the screen, and say ἐγώ... ἐγὼ εἰμί. Press the spacebar to reveal the pronoun ἐγὼ. Have the students repeat: ἐγὼ εἰμί.
+
+1. <strong>Slide 7.5</strong> repeats the picture of a child pointing directly at the camara. Signal to the space before the verb εἶ. Ask τί λόγος; Wait for a response. If no one offers a response, point to a student and say σύ, then poinit to the space before εἶ and say, σύ εἶ. Press the spacebar to reveal the pronoun. Have the students repeat, σύ εἶ.
+
+1. <strong>Slide 7.6</strong> repeats the picture of the baseball player. Point to the space before the verb ἐστιν, look at the class, and wait for a response. Someone should respond αὐτός or αὐτὸς ἐστιν. If that does not happen within about 15 seconds, say αὐτός...  αὐτὸς ἐστιν. Tap the spacebar to reveal the answer and have the students repeat it.
+
+1. <strong>Slide 7.7</strong> repeats the picture of the two girls pointing at each other. Wait for a response. If no one says αὐτή within about 15 seconds, say it yourself and tap the spacebar to reveal the pronoun. Say αὐτή ἐστιν and have the students repeat it.
+
+1. <strong>Slides 7.8 - 7.13</strong> each present a nominative case pronoun or noun. On each slide press the spacebar to reveal the preposition πρός. On the first one (<strong>slide 7.8</strong>), the text reads ὁ θεός. Press the spacebar to reveal πρός, then say πρὸς τὸν θεόν. Press the spacebar again to reveal τὸν θεόν.
+
+1. On each of the other slides (<strong>7.9 - 7.13</strong>), reveal read the initial text, reveal πρός, and wait for the students to complete the phrase before revealing the rest.
+
+1. As with the first lesson, the Greek question mark (;) appears on the final screen (<strong>7.14</strong>). This signals question and discussion time. Allow students to ask questions in English, but encourage them to use Greek where they can. Your responses should use Greek as much as possible as well, but comprehension in paramount in this section, so do what you must to insure understanding.
