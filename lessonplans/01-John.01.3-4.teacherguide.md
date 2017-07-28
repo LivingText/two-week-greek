@@ -2,14 +2,19 @@
 
 <strong>Language Objectives</strong>:
 Using single-words or short phrases drawn from the text, students will respond appropriately in Greek to basic questions posed in Greek using the singular forms of personal pronouns and the verb εἰμί: 
-* ἐγὼ εἰμι
-* σὺ εἶ
-* αὐτὸς ἐστιν
-* αὐτὴ ἐστιν
-<strong>Exposure</strong>:
-<strong>Sample questions</strong>:
-<strong>TPR opportunities</strong>
-<strong>Resources</strong>
+
+    * ἐγὼ εἰμι
+    * σὺ εἶ
+    * αὐτὸς ἐστιν
+    * αὐτὴ ἐστιν
+
+<strong>Exposure</strong>: While the vocabulary contained in John 1:3-4 is taught explicitly, other words and structures that will become relevant later are included merely to expose the students to them without the pressure of having to acquire them now (ἐκείνος, ἡ τράπεζα, μετά, κατέλαβες [καταλαμβάνω]).
+
+<strong>Sample questions</strong>: τίς ἐστιν; τίς εἶ τί ἐστιν; 
+
+<strong>TPR opportunities</strong>: Answering questions posed directly to individual students, moving around the classroom in response to instructions issued using πρός.
+
+<strong>Resources</strong>: For this lesson you will not need any materials other than a means to show the presentation.
 
 <h2>Language Mini-Lesson: Pronouns</h2>
 
@@ -17,24 +22,23 @@ Using single-words or short phrases drawn from the text, students will respond a
 
 1. <strong>Slide 1.2</strong> displays the phrases that will be the target of this lesson. It is not necessary that the students understand them now. They simply need to hear them, say them, and understand that they will be the focus of today's lesson. Feel free to tell them that in English.
 Read each phrase aloud and have the students repeat it. Do this more than once.
-* ἐγὼ εἰμι
-* σὺ εἶ
-* αὐτὸς ἐστιν
-* αὐτὴ ἐστιν
+
+    * ἐγὼ εἰμι
+    * σὺ εἶ
+    * αὐτὸς ἐστιν
+    * αὐτὴ ἐστιν
 
 1. <strong>Slide 1.3</strong> display's the phrase ἐγὼ εἰμί a man (Jonathan) pointing to himself. Point to yourself and say, ἐγὼ εἰμί [your name].
 
 1. <strong>Slide 1.4</strong> shows a little girl pointing directly at the camara. Point to a student whos name you know. Say σὺ εἶ [the student's name]. Repeat this with other students if you know their names. If not, approach a student, point to him or her, and <i>ask</i>, σὺ εἶ; The student should say his or her name.
 
-1. <strong>Slide 1.5</strong> displays the phrase αὐτός ἐστιν and shows a baseball player. We see the hand of someone off camara pointing to him. 
-Point to a male student and say to the rest of the class αὐτός ἐστιν [student's name]. Repeat this with other students if you can. For a student whose name you do not know, point to the student and ask, αὐτός ἐστιν; The students should supply the name of the student you indicate.
-<em>If there are no male students in your class</em>, point to the man in the picture and say, αὐτός ἐστιν Eddie. 
-[Eddie Grant was a third baseman for the Cincinnati Reds.]
+1. <strong>Slide 1.5</strong> displays the phrase αὐτός ἐστιν and shows a baseball player. We see the hand of someone off camara pointing to him. Point to a male student and say to the rest of the class αὐτός ἐστιν [student's name]. Repeat this with other students if you can. For a student whose name you do not know, point to the student and ask, αὐτός ἐστιν; The students should supply the name of the student you indicate.
+<em>If there are no male students in your class</em>, point to the man in the picture and say, αὐτός ἐστιν Eddie. (Eddie Grant was a third baseman for the Cincinnati Reds.)
 
 1. <strong>Slide 1.6</strong> displays the phrase αὐτή ἐστιν and shows two young girls pointing to each other. Point to a female student whose name you know and say αὐτή ἐστιν [student's name]. 
-<em>If there are no female students in your class</em>, point to the girl with the striped shirt in the picture and say αὐτή ἐστιν Μειλίν. [We don't actually know her name, but that's not relevant. The point is to teach the meaning of αὐτή ἐστιν.]
+<em>If there are no female students in your class</em>, point to the girl with the striped shirt in the picture and say αὐτή ἐστιν Μειλίν. (We don't actually know her name, but that's not relevant. The point is to teach the meaning of αὐτή ἐστιν.)
 
-<h3>Questions</h3>
+<h3>Understanding and Answering Questions</h3>
 
 1. <strong>Slide 1.7</strong> presents the statment ἐγὼ εἰμὶ ᾿Ιωνάθαν followed by three questions. Point to the statement and read it aloud: ἐγὼ εἰμὶ ᾿Ιωνάθαν. Have the students repeat it. 
 
@@ -59,12 +63,13 @@ Point to a male student and say to the rest of the class αὐτός ἐστι�
 1. Repeat this same procedure with each of the other rows in the table.
 
 1. <strong>Slide 1.9</strong> repeats the accusative case forms of the pronouns from the previous slide with πρός. 
-* πρός με
-* πρός σε
-* πρὸς αὐτόν
-* πρὸς αὐτήν
 
-Read the first line (πρός με) and have the students repeat it.
+    * πρός με
+    * πρός σε
+    * πρὸς αὐτόν
+    * πρὸς αὐτήν
+
+1. Read the first line (πρός με) and have the students repeat it.
 
 1. Look at a student and say ἐλθὲ πρός με (motioning for the student to approach you). When the student arrives, look at the class and say [the student's name] ἐστι <em>πρὸς με</em>. Smile at the student who came and motion toward his or her seat. Repeat this demonstration with at least two more students.
 
@@ -77,15 +82,16 @@ Point to the last line and read it aloud: πρὸς αὐτήν. Have the stude
 
 1. Walk to one student, but point to a different student, and say ἐλθὲ πρὸς αὐτόν (if the student to who you are pointing is male) or ἐλθὲ πρὸς αὐτήν (if she is female). If the student in front of you walks to the one to whom you pointed, look delighted and say καλόν! Repeat this with at least two more students.
 
-<strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
-* πρὸς τὸν θεόν and 
-* πρὸς τὸν λόγον. 
+1. <strong>Slide 1.10</strong> repeats the same four phrases, but adds two phrases with nouns: 
 
-Read each of these phrases aloud and have the students repeat it.
+    * πρὸς τὸν θεόν and 
+    * πρὸς τὸν λόγον. 
 
-<strong>Slides 1:11 - 1.22</strong> each present a numinative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
+1. Read each of these phrases aloud and have the students repeat it.
 
-<strong>Slides 1:11</strong>: Read the noun phrase: ὁ θεός with a confident voice. Read πρὸς... as if you don't know what should follow it. Look uncertain to try to elicit a response from one of the students. If no one responds, reread ὁ θεός with a confident voice, then point to πρὸς and with a cautious voice say πρὸς... τὸν θεόν. Quickly repeat it with confidence: πρὸς τὸν θεόν!
+1. <strong>Slides 1:11 - 1.22</strong> each present a nominative case pronoun or noun, then under it shows the preposition πρός. On each slide you will read the nominative case form, and the students will respond with πρός and the accusative case form. To teach them how to do this, guide them through the first one (<strong>Slide 1:11</strong>) as follows:
+
+1. <strong>Slides 1:11</strong>: Read the noun phrase: ὁ θεός with a confident voice. Read πρὸς... as if you don't know what should follow it. Look uncertain to try to elicit a response from one of the students. If no one responds, reread ὁ θεός with a confident voice, then point to πρὸς and with a cautious voice say πρὸς... τὸν θεόν. Quickly repeat it with confidence: πρὸς τὸν θεόν!
 
 1. With <strong>Slides 1:12 - 1.22</strong> the students should understand what to do. If they still seem confused, work through slide 1.12 the same was as you did with 1.11.
 
@@ -100,60 +106,64 @@ Take a moment to explain in English:
 We are about to read John 1:3-4. You are unlikely to understand much on the first reading. That is not a reason to worry. Just listen to the pronunciation and try our best to repeat it.
 
 1. Tap the spacebar to reveal the first clause: πάντα δι’ αὐτοῦ ἐγένετο. Read through the clause one word at a time, then in chunks as follows:
-* πάντα
-* δι’ 
-* αὐτοῦ
-* ἐγένετο
-* πάντα
-* δι’ αὐτοῦ
-* ἐγένετο
-* πάντα
-* δι’ αὐτοῦ ἐγένετο
-* πάντα δι’ αὐτοῦ ἐγένετο
+
+    * πάντα
+    * δι’ 
+    * αὐτοῦ
+    * ἐγένετο
+    * πάντα
+    * δι’ αὐτοῦ
+    * ἐγένετο
+    * πάντα
+    * δι’ αὐτοῦ ἐγένετο
+    * πάντα δι’ αὐτοῦ ἐγένετο
 
 1. Tap the spacebar again to reveal the second clause: καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. Again, read the clause one word at a time, then in chunks, then the entire clause.
-* καὶ
-* χωρὶς
-* αὐτοῦ
-* ἐγένετο
-* οὐδὲ
-* ἕν
-* καὶ χωρὶς αὐτοῦ
-* ἐγένετο
-* οὐδὲ ἕν
-* καὶ χωρὶς αὐτοῦ
-* ἐγένετο οὐδὲ ἕν
-* καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν
+
+    * καὶ
+    * χωρὶς
+    * αὐτοῦ
+    * ἐγένετο
+    * οὐδὲ
+    * ἕν
+    * καὶ χωρὶς αὐτοῦ
+    * ἐγένετο
+    * οὐδὲ ἕν
+    * καὶ χωρὶς αὐτοῦ
+    * ἐγένετο οὐδὲ ἕν
+    * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν
 
 1. Tap the spacebar to reveal the third clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Follow the same procedure as with the previous clauses:
-* ὃ
-* γέγονεν
-* ἐν
-* αὐτῷ
-* ζωὴ
-* ἦν
-* ὃ γέγονεν
-* ἐν αὐτῷ
-* ζωὴ ἦν
-* ὃ γέγονεν ἐν αὐτῷ
-* ζωὴ ἦν
-* ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν
+
+    * ὃ
+    * γέγονεν
+    * ἐν
+    * αὐτῷ
+    * ζωὴ
+    * ἦν
+    * ὃ γέγονεν
+    * ἐν αὐτῷ
+    * ζωὴ ἦν
+    * ὃ γέγονεν ἐν αὐτῷ
+    * ζωὴ ἦν
+    * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν
 
 1. Tap the spacebar one more time to reveal the last clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Follow the same procedure as with the other clauses:
-* καὶ
-* ἡ
-* ζωὴ
-* ἦν
-* τὸ
-* φῶς
-* τῶν
-* ἀνθρώπων
-* καὶ ἡ ζωὴ
-* ἦν τὸ φῶς
-* τῶν ἀνθρώπων
-* καὶ ἡ ζωὴ ἦν
-* τὸ φῶς τῶν ἀνθρώπων
-* καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων
+
+    * καὶ
+    * ἡ
+    * ζωὴ
+    * ἦν
+    * τὸ
+    * φῶς
+    * τῶν
+    * ἀνθρώπων
+    * καὶ ἡ ζωὴ
+    * ἦν τὸ φῶς
+    * τῶν ἀνθρώπων
+    * καὶ ἡ ζωὴ ἦν
+    * τὸ φῶς τῶν ἀνθρώπων
+    * καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων
 
 <h3>Building Comprehension: πάντα δι’ αὐτοῦ ἐγένετο</h3>
 
@@ -161,9 +171,7 @@ We are about to read John 1:3-4. You are unlikely to understand much on the firs
 
 1. Tap the spacebar to reveal the word πάντα in very large print. Point to the word, read it aloud, and have the students repeat it.
 
-1. <strong>Slide 3.2</strong> displays the question πάντα ἢ οὐδὲ ἕν; accompanied by an image of two circles, one filled with stick people and the other empty.
-
-We will work on the meanings of πάντα and οὐδὲ ἕν in the next few slides.
+1. <strong>Slide 3.2</strong> displays the question πάντα ἢ οὐδὲ ἕν; accompanied by an image of two circles, one filled with stick people and the other empty. (We will work on the meanings of πάντα and οὐδὲ ἕν in the next few slides.)
 
 1. Point to the circle filled with stick people. Say πάντα. Start to count the stick figures, ἕν, δύο, τρεῖς, τέσσαρες, πέντε, ἕξ. . . πάντα!
 
@@ -175,7 +183,7 @@ We will work on the meanings of πάντα and οὐδὲ ἕν in the next few 
 
 1. Point to one person and say κάθου (motioning for the person to sit down). Look at the class and ask πάντες ἑστήκαμεν; Answer your own question: οὔ. αὐτὸς / αὐτὴ οὔ ἕστηκε. <em>οὔ πάντες</em> ἑστήκαμεν.
 
-1. Empty your pockets or a bag onto a table or desk. Show the empty pockets or bag, then point to the things on the table/desk and say πάντα ἐν τῇ τραπέζᾴ ἐστιν.
+1. Empty your pockets or a bag onto a table or desk. Show the empty pockets or bag, then point to the things on the table/desk and say πάντα ἐν τῇ τράπεζᾳ ἐστιν.
 
 1. <strong>Slide 3.4</strong> illustrates breathing marks. The students have seen the two forms ἐν and ἕν, and this slide is aimed at clarifying the difference. Read the first line aloud: ἐ ... ἑ. Have the students repeat what they heard. Listen for the aspiration on ἑ. Repeat this sequence until you can clearly hear that your students pronounce ἐ without aspiration and ἑ with aspiration.
 
@@ -194,7 +202,7 @@ We will work on the meanings of πάντα and οὐδὲ ἕν in the next few 
 
 1. <strong>Slide 3.10</strong> shows an emoji of two people and the question, διὰ τίνος; Above the question is printed the equation δι’ = διά in small print. Point to the equation and say δι’ ἴσος διά. Point to the = when you say ἴσος.
 
-Now read the question aloud and have the students repeat it. Shrug your shoulders and with a questioning expression say,  διὰ τίνος;
+1. Now read the question aloud and have the students repeat it. Shrug your shoulders and with a questioning expression say,  διὰ τίνος;
 
 1. <strong>Slide 3.11</strong> begins with the clause ἐγένετο δι’ αὐτοῦ. When you tap the spacebar, the question ἐγένετο <em>διὰ τίνος</em>; appears. Read the question emphasizing the words διὰ τίνος, then wait for a response. The students may respond with δι’ αὐτοῦ. 
 
@@ -207,7 +215,7 @@ Now read the question aloud and have the students repeat it. Shrug your shoulder
 1. <strong>Slide 3.13</strong> repeats the clause πάντα δι’ αὐτοῦ ἐγένετο. When you press the spacebar the question τίς ἐγένετο
 διὰ τοῦ λόγου; appears. Read the question at a moderate to slow pace and wait for a response. This question may take some processing, so be patient!
 
-Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντα</em> ἐγένετο διὰ τοῦ λόγου and press the spacebar to reveal the answer. If no one answers, wait several seconds before pressing the spacebar and revealing the answer. When you reveal the answer, read it aloud and have the students repeat it.
+1. Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντα</em> ἐγένετο διὰ τοῦ λόγου and press the spacebar to reveal the answer. If no one answers, wait several seconds before pressing the spacebar and revealing the answer. When you reveal the answer, read it aloud and have the students repeat it.
 
 <h3>Building Comprehension: καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν</h3>
 
@@ -244,12 +252,12 @@ Someone may answer, πάντα. If so, look excited and say ναί. <em>πάντ
 
 1. <strong>Slide 5.5</strong> repeats the new clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Read it aloud and have the students repeat. Press the spacebar to reveal the words ἐν αὐτῷ in large print. Read the words and have the students repeat them.
 
-1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing:
-* ἐγένετο <em>ἐν αὐτῷ</em>
-* ἐγένετο <em>δι’ αὐτοῦ</em>
+1. <strong>Slide 5.6</strong> shows the picture of the magician and rabbit again, but now the text contrasts two ways to say the same thing. (Both forms are used in the text we are studying.)
 
-Both forms are used in the text we are studying.
-Read each statement and have the students repeat it. Point to the = sign and say ἐγένετο <em>ἐν αὐτῷ</em> καὶ ἐγένετο <em>δι’ αὐτοῦ</em> ἴσός ἐστιν. As you say the word ἴσος encircle the sign with your finger.
+    * ἐγένετο <em>ἐν αὐτῷ</em>
+    * ἐγένετο <em>δι’ αὐτοῦ</em>
+
+1. Read each statement and have the students repeat it. Point to the = sign and say ἐγένετο <em>ἐν αὐτῷ</em> καὶ ἐγένετο <em>δι’ αὐτοῦ</em> ἴσός ἐστιν. As you say the word ἴσος encircle the sign with your finger.
 
 1. <strong>Slide 5.7</strong> displays the question ἐν τίνι; and the emoji of two people. Read the question aloud, and have the students repeat it.
 
@@ -273,9 +281,50 @@ Read each statement and have the students repeat it. Point to the = sign and say
 
 1. <strong>Slide 5.13</strong> has the same title (τίς; τί;) but only shows one option. Jesus is circled in Leonardo da Vinci's "Last Supper. Ask, τίς; and wait for an answer. Someone may volunteer, "Jesus." If so, congratulate the student saying, ναί. ὁ Ἰησοῦς ἐστιν!
 
-1. <strong>Slide 5.14</strong> shows the same painting, but with the table circled. Ask, τί; and wait a few seconds, then point to the table and say ἡ τραπέζά ἐστιν.
+1. <strong>Slide 5.14</strong> shows the same painting, but with the table circled. Ask, τί; and wait a few seconds, then point to the table and say ἡ τράπεζά ἐστιν.
 
-1. <strong>Slide 5.15</strong> returns the focus to the text by repeating the focal clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Press the spacebar to reveal the question, <em>τί</em> ἦν ὃ γέγονεν ἐν αὐτῷ; Ask the question and wait for a response. Someone may offer, ζωή or ἡ ζωή. If so, congratulate the student saying καλός! ὃ γέγονεν ἐν αὐτῷ <em>ζωὴ</em> ἦν. Press the spacebar to reveal a differently worded version of the answer: <em>ἡ ζωὴ</em> ἦν ὃ γέγονεν ἐν αὐτῷ.
+1. <strong>Slide 5.15</strong> returns the focus to the text by repeating the focal clause: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Press the spacebar to reveal the question, <em>τί</em> ἦν ὃ γέγονεν ἐν αὐτῷ; Ask the question and wait for a response. Someone may offer, ζωή or ἡ ζωή. If so, congratulate the student saying καλός! ὃ γέγονεν ἐν αὐτῷ <em>ζωὴ</em> ἦν. Press the spacebar to reveal a differently worded version of the answer: <em>ἡ ζωὴ</em> ἦν ὃ γέγονεν ἐν αὐτῷ. Read it aloud and have the students repeat it.
 
-1. 
+<h3>Building Comprehension: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων</h3>
 
+1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 6</strong> (<stong>slide 6.1</stong>). As with the other sections, this one begins with a blank slide. Press the spacebar to review the text already discussed one clause at a time. Read each clause aloud and have the students repeat it.
+
+    * πάντα δι’ αὐτοῦ ἐγένετο,
+    * καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.
+    * ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν,
+
+1. Pressing the spacebar one more time will reveil the next focal clause (καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·) in blue text. Read it aloud and have the students repeat it.
+
+1. <strong>Slide 6.2</strong> repeats the new focal clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Press the spacebar to reveal the phrase τὸ φῶς in large print. Read it aloud and have the students repeat it. The next few slides will make its meaning clear.
+
+1. <strong>Slide 6.3</strong> shows a flashlight. Point to it and say, τὸ φῶς. Invite the students to repeat.
+
+1. <strong>Slide 6.4</strong> shows an oil lamp. Point to it and say τὸ φῶς. Invite the students to repeat.
+
+1. Point to the flame on the lamp and say, τὸ φῶς.
+
+1. <strong>Slide 6.5</strong> contains only the question, τί;  Ask the question, and have the students repeat it.
+
+1. <strong>Slide 6.6</strong> repeats the focal clause: καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. Press the spacebar to reveal the question, <em>τί</em> ἦν ἡ ζωή; Read the question and wait for a response. 
+
+1. Students may respond, τὸ φῶς or τὸ φῶς τῶν ἀνθρώπων. If they do, congratulate them with καλόν. <em>τὸ φῶς τῶν ἀνθρώπων</em> ἦν ἡ ζωὴ. Tap the spacebar to reveal this answer, and invite the students to repeat it.
+
+1. Pressing the spacebar or clicking the right arrow will take you to <strong>section 7</strong> (<strong>slide 7.1</strong>). The slide has the question κατέλαβες; at the top and a picture of a child looking with confusion at a camara or cellphone. It is not important that the students learn the verb form κατέλαβες at this point. The question means roughly "Do you get it?" or "Do you understand?" It is intended to introduce the review section of the lesson.
+
+1. <strong>Slide 7.2</strong> opens with the first clause from lesson one: Ἐν ἀρχῇ ἦν ὁ λόγος. Read it aloud and invite the students to repeat it. Press the spacebar once for each of the other clauses covered in that first lesson, reading each aloud and inviting the students to repeat.
+
+1. <strong>Slide 7.3</strong> does the same with the clauses from this lesson. Use the same procedure.
+
+1. <strong>Slide 7.4</strong> begins a review of the pronouns we have introduced in this lesson. Point to yourself and say ἐγώ. Point to the space <i>before</i> the word εἰμι on the screen, and say ἐγώ... ἐγὼ εἰμί. Press the spacebar to reveal the pronoun ἐγὼ. Have the students repeat: ἐγὼ εἰμί.
+
+1. <strong>Slide 7.5</strong> repeats the picture of a child pointing directly at the camara. Signal to the space before the verb εἶ. Ask τί λόγος; Wait for a response. If no one offers a response, point to a student and say σύ, then poinit to the space before εἶ and say, σύ εἶ. Press the spacebar to reveal the pronoun. Have the students repeat, σύ εἶ.
+
+1. <strong>Slide 7.6</strong> repeats the picture of the baseball player. Point to the space before the verb ἐστιν, look at the class, and wait for a response. Someone should respond αὐτός or αὐτὸς ἐστιν. If that does not happen within about 15 seconds, say αὐτός...  αὐτὸς ἐστιν. Tap the spacebar to reveal the answer and have the students repeat it.
+
+1. <strong>Slide 7.7</strong> repeats the picture of the two girls pointing at each other. Wait for a response. If no one says αὐτή within about 15 seconds, say it yourself and tap the spacebar to reveal the pronoun. Say αὐτή ἐστιν and have the students repeat it.
+
+1. <strong>Slides 7.8 - 7.13</strong> each present a nominative case pronoun or noun. On each slide press the spacebar to reveal the preposition πρός. On the first one (<strong>slide 7.8</strong>), the text reads ὁ θεός. Press the spacebar to reveal πρός, then say πρὸς τὸν θεόν. Press the spacebar again to reveal τὸν θεόν.
+
+1. On each of the other slides (<strong>7.9 - 7.13</strong>), read the initial text, reveal πρός, and wait for the students to complete the phrase before revealing the rest.
+
+1. As with the first lesson, the Greek question mark (;) appears on the final screen (<strong>7.14</strong>). This signals question and discussion time. Allow students to ask questions in English, but encourage them to use Greek where they can. Your responses should use Greek as much as possible as well, but comprehension in paramount in this section, so do what you must to insure understanding.
