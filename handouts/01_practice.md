@@ -7,15 +7,15 @@
 <table>
   <tr>
     <td>
-      <ul>
-        <li><p style="font-size: 200%">ναί <img src="images/blankline.jpeg" alt="Mountain View" style="width:160px;"></p></li>
-        <li><p style="font-size: 200%">οὔ <img src="images/blankline.jpeg" alt="Mountain View" style="width:160px;"></li>
+      <ul style="font-size: 200%">
+        <li>ναί <img src="images/blankline.jpeg" alt="Blank Line" style="width:160px;"></li>
+        <li>οὔ <img src="images/blankline.jpeg" alt="Blank Line" style="width:160px;"></li>
       </ul>
     </td>
     <td>
-      <ul>
-        <li><p style="font-size: 200%">ἤ <img src="images/blankline.jpeg" alt="Mountain View" style="width:160px;"></p></li>
-        <li><p style="font-size: 200%">τίς <img src="images/blankline.jpeg" alt="Mountain View" style="width:160px;"></p></li>
+      <ul style="font-size: 200%">
+        <li>ἤ <img src="images/blankline.jpeg" alt="Blank Line" style="width:160px;"></li>
+        <li>τίς <img src="images/blankline.jpeg" alt="Blank Line" style="width:160px;"></li>
       </ul>
     </td>
   </tr>
