@@ -24,7 +24,6 @@
   </tr>
 </table>
 <h2>Write αὐτός or αὐτή in the blank, depending on which makes best sense:</h2>
-
 <ol style="font-size:200%">
   <li>👨 τίς ἐι;  <img src="images/blankline.jpeg"></li>
   <li>👩 τίς ἐι;  <img src="images/blankline.jpeg"></li>
