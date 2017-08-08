@@ -2,7 +2,7 @@
 τὸ μελέτημα τοῦ μαθήματος τοῦ τετάρτου</h1>
 
 <h3>ἀπογράφε τοὺς λόγους:</h3>
-<div style="float:right"><img src="images/apografein.jpg" width="150px"></div>
+<img align="right" src="images/apografein.jpg" width="150px">
 <img src="images/moi.png" width="150px"><img src="images/soi.png" width="150px"><img src="images/autwi.png" width="190px"><img src="images/authi.png" width="190px">
 
 <table>
@@ -23,7 +23,7 @@
 </table>
 
 <h3>γράφε <em>αὐτῷ, αὐτῇ, μοι,</em> ἤ <em>σοι</em> καὶ τὸ ὄνομα.</h3>
-<div style="float:right"><img src="images/grafein.jpg" width="150px"></div>
+<img align="right" src="images/grafein.jpg" width="150px">
 <ol style="font-size:150%">
   <li>τί ὄνομά σοι;<br>
   ὄνομα <img src="images/blankline.jpeg">, <img src="images/blankline33x300px.jpeg"> ἐστιν.</li>
