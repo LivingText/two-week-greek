@@ -1,6 +1,6 @@
 <h1>Student Practice for Lesson Three</h1>
 
-<h2>Copy the following words:</h2>
+<h3>Copy the following words:</h3>
 <img src="images/mou.png" style="width:150px"><img src="images/sou.png" style="width:150px"><img src="images/autou.png" style="width:190px"><img src="images/auths.png" style="width:190px">
 <table>
   <tr>
@@ -22,7 +22,7 @@
     </td>
   </tr>
 </table>
-<h2>Write <em>μου, σου, αὐτοῦ,</em> or <em>αὐτῆς</em> in the blank, depending on which makes best sense:</h2>
+<h3>Write <em>μου, σου, αὐτοῦ,</em> or <em>αὐτῆς</em> in the blank, depending on which makes best sense:</h3>
 
 
 The first sentence should include your own name.
