@@ -1,4 +1,5 @@
-<h1>Student Practice for Lesson Three</h1>
+<h1>Student Practice for Lesson Three
+τὸ μελέτημα τοῦ μαθήματος τὸ τρίτον</h1>
 
 <h3>Copy the following words:</h3>
 <img src="images/mou.png" style="width:150px"><img src="images/sou.png" style="width:150px"><img src="images/autou.png" style="width:190px"><img src="images/auths.png" style="width:190px">

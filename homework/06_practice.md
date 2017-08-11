@@ -1,5 +1,5 @@
 <h1>Student Practice for Lesson Six</br>
-τὸ μελέτημα τοῦ μαθήματος τοῦ ἕκτου</h1>
+τὸ μελέτημα τοῦ μαθήματος τὸ ἕκτος<h1>
 
 <div style="font-size:150%">
 <img align="right" style="width:30%" src="images/biblion.png">

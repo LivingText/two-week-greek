@@ -1,4 +1,5 @@
-<h1>Student Practice Page for Lesson Two</h1>
+<h1>Student Practice Page for Lesson Two
+τὸ μελέτημα τοῦ μαθήματος τὸ δεύτερον</h1>
 
 <h2>Copy the following words:</h2>
 <img src="images/ego.png" style="width:150px"><img src="images/su.png" style="width:150px"><img src="images/autos.png" style="width:150px"><img src="images/auth.png" style="width:150px"><img src="images/pros.png" style="width:150px">

@@ -1,5 +1,5 @@
 <h1>Student Practice for Lesson Five</br>
-τὸ μελέτημα τοῦ μαθήματος τοῦ πέμπτου</h1>
+τὸ μελέτημα τοῦ μαθήματος τὸ πέμπτο</h1>
 
 <h3>ἀπογράφε τοὺς λόγους:</h3>
 <img align="right" src="images/apografein.jpg" width="150px">
