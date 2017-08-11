@@ -2,7 +2,9 @@
 τὸ μελέτημα τοῦ μαθήματος τοῦ ἕκτου</h1>
 
 <div style="font-size:150%">
-<img align="right" src="images/biblion.png" style="width:30%">
+<div>
+<img align="right" style="width:30%" src="images/biblion.png">
+</div>
 <p>👫 τίς	ἔδωκεν	👫 τίνι	📦 τί;</p>
 <p>ὁ Μάρκος ἔδωκεν Μαρίᾳ τὸ βιβλίον.</p>
 <p><strong>γράφε <em>Μάρκος, Μαρία, </em>ἤ<em> τὸ βιβλίον</em>.</strong></p>
@@ -21,5 +23,4 @@
 <p>τίς ἔδωκεν τί τίνι;</p>
 <p><strong>γράφε δύο ὀνόματα.</strong></p>
 <p><img src="images/blankline.jpeg"> ἔδωκεν τὸ βιβλίον <img src="images/blankline.jpeg">.</p>
-
 </div>
