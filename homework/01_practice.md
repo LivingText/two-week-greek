@@ -1,4 +1,5 @@
-<h1>Writing Practice for Lesson One</h1>
+<h1>Writing Practice for Lesson One</br>
+τὸ μελέτημα τοῦ μαθήματος τὸ πρῶτον</h1>
 
 <h2>Copy the following words</h2>
 <img src="images/nai.jpg" style="width:200px;"><img src="images/ou.jpg" style="width:190px;"><img src="images/h.jpg" style="width:150px;"><img src="images/tis.jpg" style="width:200px;">

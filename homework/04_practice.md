@@ -1,5 +1,5 @@
 <h1>Student Practice for Lesson Four</br>
-τὸ μελέτημα τοῦ μαθήματος τοῦ τετάρτου</h1>
+τὸ μελέτημα τοῦ μαθήματος τὸ τέταρτον</h1>
 
 <h3>ἀπογράφε τοὺς λόγους:</h3>
 <img align="right" src="images/apografein.jpg" width="150px">
