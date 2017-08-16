@@ -8,6 +8,9 @@ Calendar icon of Mozilla Sunbird, MPL/GPL/LGPL.
 By David Ball (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons
 https://commons.wikimedia.org/wiki/File:Beach-wedding-couple.jpg
 
+* Billy_Sunday_preaches.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/82/Billy_Sunday_preaches.jpg
+
 * Crèche-bergers.jpg
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Cr%C3%A8che_-_bergers.jpg
 Nativity scene - santons featuring the adoration by the shepherds.
@@ -17,8 +20,29 @@ Nativity scene - santons featuring the adoration by the shepherds.
 CC0 Creative Commons
 https://pixabay.com/en/boy-child-dad-daughter-family-2027487/
 
+* Jesus_teaching_his_disciples.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cc/Jesus_teaching_his_disciples.jpg
+
+* little-boy-hither.jpg
+https://c1.staticflickr.com/7/6181/6146248194_5d1c56b130_b.jpg
+
+* Mother_Mary_with_child_jesus.png
+https://commons.wikimedia.org/wiki/File:Mother_Mary_with_child_jesus.png
+
+* 407px-Christ,_by_Heinrich_Hofmann.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Christ%2C_by_Heinrich_Hofmann.jpg/407px-Christ%2C_by_Heinrich_Hofmann.jpg
+
+* 532px-Silva_sounds_the_horn_to_summon_Hernani-act_4.png
+https://commons.wikimedia.org/wiki/File:Silva_sounds_the_horn_to_summon_Hernani-act_4.png
+Public Domain
+
+* wedding-invitation-golden-hearts.jpg
+https://commons.wikimedia.org/wiki/File:Wedding-invitation-golden-hearts-4037821.jpg
+© ELIASGHN. Creative Commons Attribution-Share Alike 4.0 International
+
 * Weddingring_2007-6-23-1.jpg
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Weddingring_2007-6-23-1.jpg
+By OpenClipart-Vectors [CC0], via Wikimedia Commons
 
 * 1927_Chiang_Soong_wedding_photo1.jpg
 https://upload.wikimedia.org/wikipedia/commons/6/69/1927_Chiang_Soong_wedding_photo1.jpg
