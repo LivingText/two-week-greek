@@ -1,0 +1,11 @@
+.quiz-option::before {
+	content: '☐';
+}
+.quiz-option.selected.correct::before {
+	content: '☑';
+	color: #252;
+}
+.quiz-option.selected.incorrect::before {
+	content: '☒';
+	color: #711;
+}
