@@ -21,6 +21,7 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+
 	</head>
 	<body>
 		<div class="reveal">
@@ -30,12 +31,7 @@
 					<h3 style="font-size: smaller">Living Language in the Written Text</h3>
 					<h2>μάθημα ἕν (Lesson 1)</h2>
 					<div>
-                      <audio id="audio1" src="audio/01-Slide1All.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                      </audio>
-                      <button style="border: none" onclick="document.getElementById('audio1').play()">▶️
-                      </button>
-
+                      <button data-audio="audio/01-Slide1All.mp3">▶</button>
                     </div>
 					<p><small><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 					Copyright 2017 by <a href="http://jonathanrobie@biblicalhumanities.org">Jonathan Robie</a> (<a href="http://twitter.com/bibhumanities">@bibhumanities</a>) and <a href="http://greek-language.com">Micheal Palmer</a> (<a href="http://twitter.com/grklinguist">@grklinguist</a>).
@@ -117,22 +113,22 @@
 					<section id="Slide2.5">
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>	
+					</section>
 					<section id="Slide2.6">
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!</h2>
-					</section>	
+					</section>
 					<section>
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!</h2>
-					</section>						
+					</section>
 					<section>
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>						
+					</section>
 					<section>
 						<h2>ἤ</h2>
-					</section>					
+					</section>
 					<section>
 						<h2>👍 ναὶ ἢ οὔ;</h2>
 						<h2 class="fragment">ναί!</h2>
@@ -140,7 +136,7 @@
 					<section>
 						<h2>👎 ναὶ ἢ οὔ;</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>	
+					</section>
 					<section>
 						<h1>👩</h1>
 						<h2>Μαρία</h2>
@@ -156,20 +152,20 @@
 						<h1>👨 τίς;</h1>
 						<h2>Μαρία ἢ Ἰωάνης;</h2>
 						<h2 class="fragment">Ἰωάνης</h2>
-					</section> 
+					</section>
 					<section>
 						<h1>👩 τίς;</h1>
 						<h2>Μαρία ἢ Ἰωάνης;</h2>
 						<h2 class="fragment">Μαρία</h2>
-					</section>	
+					</section>
 					<section>
 						<h1>👩 τίς;</h1>
 						<h2 class="fragment">Μαρία</h2>
-					</section>		
+					</section>
 					<section>
 						<h1>👨 τίς;</h1>
 						<h2 class="fragment">Ἰωάνης</h2>
-					</section>													
+					</section>
 				</section>
 				<section>
 					<section>
@@ -214,33 +210,33 @@
 					<section>
 						<h2>ἀρχή, ἢ τελευτή;</h2>
 						<img data-src="images/Start_Jeremy_Wariner_2007.jpg" width="800"/>
-					</section>			  
+					</section>
 
 					<section>
-						<h2>ἀρχή, ἢ τελευτή;</h2>			    
+						<h2>ἀρχή, ἢ τελευτή;</h2>
 						<img data-src="images/runner-end.jpg" width="800"/>
-					</section>	
+					</section>
 
 					<section>
 						<h2>Ἐν τελευτῇ</h2>
 						<img data-src="images/runner-end.jpg" width="800"/>
 					</section>
-								  
+
 					<section>
 						<h2>Ἐν ἀρχῇ</h2>
 						<img data-src="images/Start_Jeremy_Wariner_2007.jpg" width="800"/>
-					</section>	
+					</section>
 					<section>
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος</h3>
 						<h1 class="fragment">ἦν</h1>
-					</section>					
+					</section>
 					<section>
 						<h1>ἦν</h1>
 						<h2>ἦν = "was"</h2>
 					</section>
 					<section>
 						<h2>Ἐν ἀρχῇ <span style="color:blue">ἦν</span> ὁ λόγος</h2>
-					</section>	
+					</section>
 					<section>
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος</h3>
 						<h1 class="fragment">ὁ λόγος</h1>
@@ -254,7 +250,7 @@
 					<section>
 						<h2>ὁ λόγος</h2>
 						<h1 class="fragment">Слухаю</h1>
-					</section>			  
+					</section>
 
 					<section>
 						<h2>ὁ λόγος</h2>
@@ -269,7 +265,7 @@
 					<section>
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος</h3>
 						<h3 class="fragment">👫 <span style="color: blue;">τίς</span> ἦν ἐν ἀρχῇ;</h3>
-						<h3 class="fragment"><span style="color: blue;">ὁ λόγος</span> ἦν ἐν ἀρχῇ.</h3>						
+						<h3 class="fragment"><span style="color: blue;">ὁ λόγος</span> ἦν ἐν ἀρχῇ.</h3>
 					</section>
 
 				</section>
@@ -282,7 +278,7 @@
 						<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
 						<h1 class="fragment">καί</h1>
 						<h3 class="fragment"><code>1 + 1</code></h3>
-					</section>	
+					</section>
 					<section>
 					<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
 					<h1>θεός</h1>
@@ -295,17 +291,17 @@
 
 					<section>
 					<h1>👫 τίς;</h1>
-					</section>			  
+					</section>
 
 					<section>
-					<h2>θεὸς ἢ ἄνθρωπος;</h2>			    
+					<h2>θεὸς ἢ ἄνθρωπος;</h2>
 					<img data-src="images/creation-adam.jpg" width="800"/>
 					</section>
 
 					<section>
-					<h2>θεὸς ἢ ἄνθρωπος;</h2>			    
+					<h2>θεὸς ἢ ἄνθρωπος;</h2>
 					<img data-src="images/creation-god.jpg" width="800"/>
-					</section>					
+					</section>
 
 					<section>
 					<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν</h3>
@@ -326,7 +322,7 @@
 					</section>
 
 					<section>
-					<h1>👫 πρὸς τίνα;</h1>			    
+					<h1>👫 πρὸς τίνα;</h1>
 					</section>
 
 					<section>
@@ -346,11 +342,11 @@
 							<tr>
 								<td>ἐγώ</td>
 								<td>πρὸς με</td>
-							</tr>		
+							</tr>
 							<tr>
 								<td>σύ</td>
 								<td>πρὸς σε</td>
-							</tr>													
+							</tr>
 						</table>
 					</section>
 
@@ -377,7 +373,7 @@
 						<h3>καὶ θεὸς ἦν ὁ λόγος.</h3>
 						<h3 class="fragment"><span style="color:blue">τίς</span>  ἦν θεὸς;
 						</h3>
-						<h3 class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν θεὸς.</h3>					
+						<h3 class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν θεὸς.</h3>
 					</section>
 				</section>
 
@@ -395,39 +391,39 @@
 					<section>
 						<h3>οὗτος</h3>
 						<img data-src="images/eddygrant.jpg">
-					</section>		
+					</section>
 					<section>
 						<p>οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
 						<p class="fragment"><span style="color:blue">τίς</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν;</p>
 						<p class="fragment"><span style="color:blue">οὗτος</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
-						<p class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>	
+						<p class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
 						<p class="fragment"><span style="color:blue">οὗτος</span> ἦν <span style="color:blue">ὁ λόγος</span>.</p>
 					</section>
 					<section>
 						<p>οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
 						<p class="fragment"><span style="color:blue">πρὸς τίνα</span> ἦν οὗτος ἐν ἀρχῇ;</p>
-						<p class="fragment"><span style="color:blue">πρὸς τὸν θεόν</span> ἦν οὗτος ἐν ἀρχῇ.</p>	
-					</section>	
+						<p class="fragment"><span style="color:blue">πρὸς τὸν θεόν</span> ἦν οὗτος ἐν ἀρχῇ.</p>
+					</section>
 					<section>
 						<h1>🕝 πότε;</h1>
-					</section>			
+					</section>
 					<section>
 						<p>οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
 						<p class="fragment"><span style="color:blue">πότε</span> ἦν οὗτος πρὸς τὸν θεόν;</p>
 						<p class="fragment"><span style="color:blue">ἐν ἀρχῇ</span> ἦν οὗτος πρὸς τὸν θεόν.</p>
-					</section>					
+					</section>
 				</section>
 				<section>
 					<section>
 						<h2>κατέλαβες;</h2>
-						<img data-src="images/boy-61171.jpg"/>	
-					</section>			
+						<img data-src="images/boy-61171.jpg"/>
+					</section>
 					<section>
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,</p>
 						 <p class="fragment">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,</p>
 						 <p class="fragment">καὶ θεὸς ἦν ὁ λόγος.</p>
 						 <p class="fragment">οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.</p>
-					</section>	
+					</section>
 					<section>
 						<h2><span class="fragment">👍</span> ναί</h2>
 						<h2><span class="fragment">👎</span> οὔ</h2>
@@ -435,19 +431,19 @@
 					<section>
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>	
+					</section>
 					<section>
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!</h2>
-					</section>	
+					</section>
 					<section>
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!</h2>
-					</section>						
+					</section>
 					<section>
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>										
+					</section>
 					<section>
 						<h2>👍 ναὶ ἢ οὔ;</h2>
 						<h2 class="fragment">ναί!</h2>
@@ -455,7 +451,7 @@
 					<section>
 						<h2>👎 ναὶ ἢ οὔ;</h2>
 						<h2 class="fragment">οὔ!</h2>
-					</section>	
+					</section>
 					<section>
 						<h1>👩</h1>
 						<h2>Μαρία</h2>
@@ -468,30 +464,30 @@
 						<h1>👨 τίς;</h1>
 						<h2>Μαρία ἢ Ἰωάνης;</h2>
 						<h2 class="fragment">Ἰωάνης</h2>
-					</section> 
+					</section>
 					<section>
 						<h1>👩 τίς;</h1>
 						<h2>Μαρία ἢ Ἰωάνης;</h2>
 						<h2 class="fragment">Μαρία</h2>
-					</section>	
+					</section>
 					<section>
 						<h1>👩 τίς;</h1>
 						<h2 class="fragment">Μαρία</h2>
-					</section>		
+					</section>
 					<section>
 						<h1>👨 τίς;</h1>
 						<h2 class="fragment">Ἰωάνης</h2>
-					</section>					
+					</section>
 					<section>
 						<h1>;</h1>
-					</section>			
+					</section>
 				</section>
 			</div>
 		</div>
 
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.js"></script>
-
+		<script src="livingtext/js/livingtext.js"></script>
 		<script>
 			// More info about config & dependencies:
 			// - https://github.com/hakimel/reveal.js#configuration
