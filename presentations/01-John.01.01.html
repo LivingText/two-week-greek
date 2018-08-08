@@ -11,7 +11,7 @@
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
-		<style>p { text-align: left;}</style>
+		<style>p { text-align: left;} button { font-size: xx-large; color: blue; border: none;}</style>
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -31,9 +31,14 @@
 					<h1>γραφὴ ζῶσα</h1>
 					<h3 style="font-size: smaller">Living Language in the Written Text</h3>
 					<h2>μάθημα ἕν (Lesson 1)</h2>
-					<div>
-                      <button data-audio="audio/01-Slide1All.mp3">▶</button>
-                    </div>
+					<!--
+						When audio pertains to the slide as a whole, use the HTML audio
+						as follows.
+					-->
+					<audio controls>
+  						<source src="audio/01-Slide1All.mp3" type="audio/mpeg">
+  						Your browser does not support the audio element.
+					</audio>
 					<p><small><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 					Copyright 2017 by <a href="http://jonathanrobie@biblicalhumanities.org">Jonathan Robie</a> (<a href="http://twitter.com/bibhumanities">@bibhumanities</a>) and <a href="http://greek-language.com">Micheal Palmer</a> (<a href="http://twitter.com/grklinguist">@grklinguist</a>).
 					<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small></p>
@@ -42,57 +47,41 @@
 				<section id="2">
 					<section id="2.1">
 						<h2>Greek Language</h2>
-                        <div>
-                          <audio id="audio2" src="audio/01-Slide2All.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio2').play()">▶️
-                          </button>
-                        </div>
 						<h2>Γλῶσσα Ἑλληνική</h2>
+						<audio controls>
+  							<source src="audio/01-Slide2All.mp3" type="audio/mpeg">
+  							Your browser does not support the audio element.
+						</audio>
 					</section>
 
 					<section id="2.2">
 						<h2>Lesson objectives</h2>
-                        <h3>
-                          <audio id="audio3" src="audio/01-Slide2.2-h3.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio3').play()">▶️
-                          </button>
-                            τέλοι τοῦ μαθήματος</h3>
+                        <h3>τέλοι τοῦ μαθήματος
+                        	<!--
+                        		Audio for fragments uses the <button/> element, not the
+                        		HTML5 <audio/> element.
+
+                        		Make sure the corresponding JavaScript library is loaded:
+
+                        		<script src="livingtext/js/livingtext.js"></script>
+                        	-->
+                            <button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-h3.mp3">🔊</button>
+                        </h3>
 						<ul>
-							<li class="fragment">
-                              Yes, no  (ναί, οὔ)
-                              <audio id="audio4" src="audio/01-Slide2.2-li1.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                              </audio>
-                              <button style="border: none" onclick="document.getElementById('audio4').play()">▶️
-                              </button></li>
+							<li class="fragment">Yes, no  (ναί, οὔ)
+                              	<button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-li1.mp3">&#x1f50a;</button>
+                          	</li>
 							<li class="fragment">Questions using "or" (ἤ)
-                              <audio id="audio5" src="audio/01-Slide2.2-li2.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                              </audio>
-                              <button style="border: none" onclick="document.getElementById('audio5').play()">▶️
-                              </button></li>
+							  	<button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-li2.mp3">🔊</button>
+                          	</li>
 							<li class="fragment">Questions using "who" (τίς)
-                              <audio id="audio6" src="audio/01-Slide2.2-li3.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                              </audio>
-                              <button style="border: none" onclick="document.getElementById('audio6').play()">▶️
-                              </button></li>
+								<button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-li3.mp3">▶</button>
+							</li>
 							<li class="fragment">Basic understanding of John 1:1-2 (relax, you won't understand it at first, our job is to teach this).
-                              <audio id="audio7" src="audio/01-Slide2.2-li4.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                              </audio>
-                              <button style="border: none" onclick="document.getElementById('audio7').play()">▶️
-                              </button></li>
+								<button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-li4.mp3">▶️</button>
+							</li>
 							<li class="fragment">You will be swimming in Greek that you don't understand ... don't worry about it, you are only responsible for the things listed above.
-                              <audio id="audio8" src="audio/01-Slide2.2-li5.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                              </audio>
-                              <button style="border: none" onclick="document.getElementById('audio8').play()">▶️
-                              </button></li>
+								<button onclick="play_audio('hello')" data-src="audio/01-Slide2.2-li5.mp3">▶</button></li>
 						</ul>
 					</section>
 
@@ -314,22 +303,15 @@
 					<section id="Slide3.1">
 						<h2>John 1:1-2</h2>
 						<h2>Κατά Ιωάννην 1:1-2</h2>
-                      <div>
-                          <audio id="audio20" src="audio/01-Slide3.1-All.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio20').play()">▶️
-                          </button>
-                      </div>
+						<audio controls>
+  							<source src="audio/01-Slide3.1-All.mp3" type="audio/mpeg">
+  							Your browser does not support the audio element.
+						</audio>
 					</section>
 
 					<section>
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,
-                          <audio id="audio21" src="audio/01-Slide3.2-li1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio21').play()">▶️
-                          </button>
+						 <button onclick="play_audio('hello')" src="audio/01-Slide3.2-li1.mp3">▶️</button>
                          </p>
 						 <p class="fragment">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,
                           <audio id="audio22" src="audio/01-Slide3.2-li2.mp3">
@@ -820,13 +802,10 @@
 					</section>
 
 					<section id="5.13">
-                        <div>
-                          <audio id="audio53" src="audio/01-Slide5.13-All.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio53').play()">▶️
-                          </button>
-                        </div>
+						<audio controls>
+  							<source src="audio/01-Slide5.13-All.mp3" type="audio/mpeg">
+  							Your browser does not support the audio element.
+						</audio>
 						<table>
 							<tr>
 								<th>τίς;</th>
