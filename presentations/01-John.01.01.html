@@ -31,7 +31,7 @@
 					<h3 style="font-size: smaller">Living Language in the Written Text</h3>
 					<h2>μάθημα ἕν (Lesson 1)</h2>
 					<!--
-						When audio pertains to the slide as a whole, use the HTML audio
+						When audio pertains to the slide as a whole, use the HTML <audio>
 						as follows.
 					-->
 					<audio controls>
@@ -57,61 +57,57 @@
 						<h2>Lesson objectives</h2>
                         <h3>τέλοι τοῦ μαθήματος
                         	<!--
-                        		Audio for fragments uses the <button/> element, not the
-                        		HTML5 <audio/> element.
+                        		Audio for fragments uses the <button/> element, not the HTML5 <audio/> element.
 
                         		Make sure the corresponding JavaScript library is loaded:
 
                         		<script src="livingtext/js/livingtext.js"></script>
                         	-->
-                            <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-h3.mp3">🔊</button>
+                            <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-h3.mp3">▶
+                            </button>
                         </h3>
 						<ul>
 							<li class="fragment">Yes, no  (ναί, οὔ)
-                              	<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li1.mp3">&#x1f50a;</button>
+                              	<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li1.mp3">▶
+                                </button>
                           	</li>
 							<li class="fragment">Questions using "or" (ἤ)
-							  	<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li2.mp3">🔊</button>
+							  	<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li2.mp3">▶
+                                </button>
                           	</li>
 							<li class="fragment">Questions using "who" (τίς)
-								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li3.mp3">▶</button>
+								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li3.mp3">▶
+                                </button>
 							</li>
 							<li class="fragment">Basic understanding of John 1:1-2 (relax, you won't understand it at first, our job is to teach this).
-								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li4.mp3">▶️</button>
+								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li4.mp3">▶
+                                </button>
 							</li>
 							<li class="fragment">You will be swimming in Greek that you don't understand ... don't worry about it, you are only responsible for the things listed above.
-								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li5.mp3">▶</button></li>
+								<button onclick="play_audio('hello')" data-audio="audio/01-Slide2.2-li5.mp3">▶
+                                </button>
+                            </li>
 						</ul>
 					</section>
 
 					<section id="2.3">
 						<h2>👍 ναί
-                          <audio id="audio9" src="audio/01-Slide2.3-h2-1.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio9').play()">▶️
-                          </button></h2>
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.3-h2-1.mp3">▶
+                          </button>
+                        </h2>
 						<h2>👎 οὔ
-                          <audio id="audio10" src="audio/01-Slide2.3-h2-2.mp3">
-                                Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio10').play()">▶️
-                          </button></h2>
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.3-h2-2.mp3">▶
+                          </button>
+                        </h2>
 					</section>
 
 					<section id="2.4">
 						<h2><span class="fragment">👍</span> ναί
-                          <audio id="audio11" src="audio/01-Slide2.4-h2-1-nai.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio11').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-1-nai.mp3">▶
                           </button>
                         </h2>
 						<h2><span class="fragment">👎</span> οὔ
-                          <audio id="audio12" src="audio/01-Slide2.4-h2-2-ou.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio12').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-2-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -119,10 +115,7 @@
 					<section id="2.5">
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!
-                          <audio id="audio12" src="audio/01-Slide2.4-h2-2-ou.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio12').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-2-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -130,10 +123,7 @@
 					<section id="2.6">
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!
-                          <audio id="audio11" src="audio/01-Slide2.4-h2-1-nai.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio11').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-1-nai.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -141,10 +131,7 @@
 					<section id="2.7">
 						<h2>👍</h2>
 						<h2 class="fragment">ναί!
-                          <audio id="audio11" src="audio/01-Slide2.4-h2-1-nai.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio11').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-1-nai.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -152,54 +139,38 @@
 					<section id="2.8">
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!
-                          <audio id="audio12" src="audio/01-Slide2.4-h2-2-ou.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio12').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-2-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
 
 					<section id="2.9">
 						<h2>ἤ
-                          <audio id="audio13" src="audio/01-Slide2.9-η.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio13').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.9-η.mp3">▶
                           </button>
                         </h2>
 					</section>
 
 					<section id="2.10">
-						<h2>👍 ναὶ ἢ οὔ;
-                          <audio id="audio14" src="audio/01-Slide2.10-h2-1-ναὶ-ἢ-οὔ.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio14').play()">▶️
+						<h2>ναὶ ἢ οὔ;
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.10-h2-1-ναὶ-ἢ-οὔ.mp3">▶
                           </button>
                         </h2>
+                        <h2>👍</h2>
 						<h2 class="fragment">ναί!
-                          <audio id="audio11" src="audio/01-Slide2.4-h2-1-nai.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio11').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-1-nai.mp3">▶
                           </button>
                         </h2>
 					</section>
 
 					<section id="2.11">
-						<h2>👎 ναὶ ἢ οὔ;
-                          <audio id="audio14" src="audio/01-Slide2.10-h2-1-ναὶ-ἢ-οὔ.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio14').play()">▶️
+						<h2>ναὶ ἢ οὔ;
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.10-h2-1-ναὶ-ἢ-οὔ.mp3">▶
                           </button>
                         </h2>
+                        <h2>👎</h2>
 						<h2 class="fragment">οὔ!
-                          <audio id="audio12" src="audio/01-Slide2.4-h2-2-ou.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio12').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.4-h2-2-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -208,93 +179,62 @@
 						<h1>👩</h1>
 						<h2>Μαρία</h2>
                         <div>
-                          <audio id="audio15" src="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio15').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">▶
                           </button>
                         </div>
 					</section>
 
 					<section id="2.13">
-						<h1>👨</h1>
-						<h2>Ἰωάνης</h2>
-                        <div>
-                          <audio id="audio16" src="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio16').play()">▶️
-                          </button>
-                        </div>
+                      <h1>👨</h1>
+                      <h2>Ἰωάνης</h2>
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">▶
+                      </button>
 					</section>
 
 					<section id="2.14">
-						<h1>👫 τίς;</h1>
-                        <div>
-                          <audio id="audio17" src="audio/01-Slide2.14-%CF%84%CE%AF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio17').play()">▶️
-                          </button>
-                        </div>
+                      <h1>👫 τίς;</h1>
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.14-%CF%84%CE%AF%CF%82.mp3">▶
+                      </button>
 					</section>
 
 					<section id="2.15">
-						<h1>👨 τίς;</h1>
-						<h2>Μαρία ἢ Ἰωάνης;
-                          <audio id="audio18" src="audio/01-Slide2.15-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio18').play()">▶️
-                          </button>
-                        </h2>
-						<h2 class="fragment">Ἰωάνης
-                          <audio id="audio16" src="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio16').play()">▶️
-                          </button>
-                        </h2>
+                      <h1>👨 τίς;</h1>
+                      <h2>Μαρία ἢ Ἰωάνης;
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.15-Question.mp3">▶
+                      </button>
+                      </h2>
+                      <h2 class="fragment">Ἰωάνης
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">▶
+                      </button>
+                      </h2>
 					</section>
 
 					<section id="2.16">
-						<h1>👩 τίς;</h1>
-						<h2>Μαρία ἢ Ἰωάνης;
-                          <audio id="audio18" src="audio/01-Slide2.15-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio18').play()">▶️
-                          </button>
-                        </h2>
-						<h2 class="fragment">Μαρία
-                          <audio id="audio15" src="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio15').play()">▶️
-                          </button>
-                        </h2>
+                      <h1>👩 τίς;</h1>
+                      <h2>Μαρία ἢ Ἰωάνης;
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.15-Question.mp3">▶
+                      </button>
+                      </h2>
+                      <h2 class="fragment">Μαρία
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">▶
+                      </button>
+                      </h2>
 					</section>
 
 					<section id="2.17">
-						<h1>👩 τίς;</h1>
-						<h2 class="fragment">Μαρία
-                          <audio id="audio15" src="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio15').play()">▶️
-                          </button>
-                        </h2>
+                      <h1>👩 τίς;</h1>
+                      <h2 class="fragment">Μαρία
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.12-%CE%9C%CE%B1%CF%81%CE%AF%CE%B1.mp3">▶
+                      </button>
+                      </h2>
 					</section>
 
 					<section id="2.18">
-						<h1>👨 τίς;</h1>
-						<h2 class="fragment">Ἰωάνης
-                          <audio id="audio16" src="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio16').play()">▶️
-                          </button>
-                        </h2>
+                      <h1>👨 τίς;</h1>
+                      <h2 class="fragment">Ἰωάνης
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.13-%E1%BC%B8%CF%89%CE%AC%CE%BD%CE%B7%CF%82.mp3">▶
+                      </button>
+                      </h2>
 					</section>
 				</section>
 
@@ -310,27 +250,20 @@
 
 					<section>
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,
-						 <button onclick="play_audio('hello')" src="audio/01-Slide3.2-li1.mp3">▶️</button>
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li1.mp3">▶
+                          </button>
                          </p>
+
 						 <p class="fragment">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,
-                          <audio id="audio22" src="audio/01-Slide3.2-li2.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio22" src="audio/01-Slide3.2-li2.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment">καὶ θεὸς ἦν ὁ λόγος.
-                          <audio id="audio23" src="audio/01-Slide3.2-li3.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio23').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li3.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment">οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-                          <audio id="audio24" src="audio/01-Slide3.2-li4.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio24').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li4.mp3">▶
                           </button>
                          </p>
 					</section>
@@ -339,27 +272,18 @@
 				<section id="4">
 					<section id="Slide4.1">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
-                          <audio id="audio21" src="audio/01-Slide3.2-li1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio21').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li1.mp3">▶
                           </button>
                         </h3>
 						<h1 class="fragment">Ἐν
-                          <audio id="audio25" src="audio/01-Slide4.1-h1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio25').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.1-h1.mp3">▶
                           </button>
                         </h1>
 					</section>
 
 					<section id="4.2">
 						<h3>Ἐν
-                          <audio id="audio25" src="audio/01-Slide4.1-h1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio25').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.1-h1.mp3">▶
                           </button>
                         </h3>
 						<img alt="red ball in glass" src="images/en500pxw.png" />
@@ -367,27 +291,18 @@
 
 					<section id=4.3>
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
-                          <audio id="audio21" src="audio/01-Slide3.2-li1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio21').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li1.mp3">▶
                           </button>
                         </h3>
 						<h1 class="fragment">ἀρχῇ
-                          <audio id="audio26" src="audio/01-Slide4.3-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio26').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.3-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">▶
                           </button>
                         </h1>
 					</section>
 
 					<section id="4.4">
 						<h2>ἡ ἀρχή
-                          <audio id="audio27" src="audio/01-Slide4.4-%E1%BC%A1-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio27').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.4-%E1%BC%A1-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">▶
                           </button>
                         </h2>
 						<img style="border: none" alt="maze with beginning and end marked in Greek" data-src="images/maze.png"/>
@@ -395,10 +310,7 @@
 
 					<section id="4.5">
 						<h2>ἡ ἀρχή, ἡ τελευτή
-                          <audio id="audio28" src="audio/01-Slide4.5-%E1%BC%80%CF%81%CF%87%CE%AE-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio28').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.5-%E1%BC%80%CF%81%CF%87%CE%AE-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">▶
                           </button>
                         </h2>
 						<img alt="pumpkin from seed to harvest" data-src="images/pumpkin.png"/>
@@ -406,15 +318,11 @@
 
 					<section id="4.6">
 						<h2>ἡ ἀρχή, ἡ τελευτή
-                          <audio id="audio28" src="audio/01-Slide4.5-%E1%BC%80%CF%81%CF%87%CE%AE-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio28').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.5-%E1%BC%80%CF%81%CF%87%CE%AE-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">▶
                           </button>
                         </h2>
 						<img alt="frog life cycle with beginning and end marked" data-src="images/frog.png"/>
 					</section>
-
 
 					<section id="4.7">
 						<h2>ἀρχή, ἢ τελευτή;
@@ -423,41 +331,32 @@
                           </audio>
                           <button style="border: none" onclick="document.getElementById('audio29').play()">▶️
                           </button>
+
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.7-h2-Question.mp3">▶
+                          </button>
                         </h2>
 						<img alt="runner at start of race" data-src="images/Start_Jeremy_Wariner_2007.jpg" width="60%"/>
                       <h2 class="fragment">ἀρχή
-                          <audio id="audio26" src="audio/01-Slide4.3-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio26').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.3-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">▶
                           </button>
                       </h2>
 					</section>
 
 					<section id="4.8">
 						<h2>ἀρχή, ἢ τελευτή;
-                          <audio id="audio29" src="audio/01-Slide4.7-h2-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio29').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.7-h2-Question.mp3">▶
                           </button>
                         </h2>
 						<img alt="runner at finish line" data-src="images/runner-end.jpg" width="60%"/>
                         <h2 class="fragment">τελευτή
-                          <audio id="audio30" src="audio/01-Slide4.8-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio30').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.8-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">▶
                           </button>
                         </h2>
 					</section>
 
 					<section id="4.9">
 						<h2>Ἐν τελευτῇ
-                          <audio id="audio31" src="audio/01-Slide4.9-%E1%BC%90%CE%BD-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio31').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.9-%E1%BC%90%CE%BD-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">▶
                           </button>
                         </h2>
 						<img data-src="images/runner-end.jpg" width="75%"/>
@@ -466,10 +365,7 @@
 
 					<section id="4.10">
 						<h2>Ἐν ἀρχῇ
-                          <audio id="audio32" src="audio/01-Slide4.10-%E1%BC%90%CE%BD-%E1%BC%80%CF%81%CF%87%E1%BF%84.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio32').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.10-%E1%BC%90%CE%BD-%E1%BC%80%CF%81%CF%87%E1%BF%84.mp3">▶
                           </button>
                         </h2>
 						<img alt="Jeremy Wariner at the beginning of a race" data-src="images/Start_Jeremy_Wariner_2007.jpg" width="75%"/>
@@ -477,27 +373,18 @@
 
 					<section id="4.11">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
-                          <audio id="audio33" src="audio/01-Slide4.11-h3-greekclause.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio33').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-h3-greekclause.mp3">▶
                           </button>
                         </h3>
 						<h1 class="fragment">ἦν
-                          <audio id="audio34" src="audio/01-Slide4.11-%E1%BC%A6%CE%BD.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio34').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-%E1%BC%A6%CE%BD.mp3">▶
                           </button>
                         </h1>
 					</section>
 
 					<section id="4.12">
 						<h1>ἦν
-                          <audio id="audio34" src="audio/01-Slide4.11-%E1%BC%A6%CE%BD.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio34').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-%E1%BC%A6%CE%BD.mp3">▶
                           </button>
                         </h1>
 						<h2>ἦν = "was"</h2>
@@ -505,37 +392,25 @@
 
 					<section id="4.13">
 						<h2>Ἐν ἀρχῇ <span style="color:blue">ἦν</span> ὁ λόγος
-                          <audio id="audio35" src="audio/01-Slide4.12-wholeclause.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio35').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.12-wholeclause.mp3">▶
                           </button>
                         </h2>
 					</section>
 
 					<section id="4.14">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
-                          <audio id="audio35" src="audio/01-Slide4.12-wholeclause.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio35').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.12-wholeclause.mp3">▶
                           </button>
                         </h3>
 						<h1 class="fragment">ὁ λόγος
-                          <audio id="audio36" src="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio36').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">▶
                           </button>
                         </h1>
 					</section>
 
 					<section id="4.15">
 						<h2>ὁ λόγος
-                          <audio id="audio36" src="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio36').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">▶
                           </button>
                         </h2>
 						<h1 class="fragment">نمستے</h1>
@@ -543,10 +418,7 @@
 
 					<section id="4.16">
 						<h2>ὁ λόγος
-                          <audio id="audio36" src="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio36').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">▶
                           </button>
                         </h2>
 						<h1 class="fragment">Слухаю</h1>
@@ -554,10 +426,7 @@
 
 					<section id="4.17">
 						<h2>ὁ λόγος
-                          <audio id="audio36" src="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio36').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">▶
                           </button>
                         </h2>
 						<h1 class="fragment">喂</h1>
@@ -565,36 +434,23 @@
 
 					<section id="4.18">
 						<h2>οἱ λόγοι
-                          <audio id="audio37" src="audio/01-Slide4.18-%CE%BF%E1%BC%B1-%CE%BB%CF%8C%CE%B3%CE%BF%CE%B9.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio37').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.18-%CE%BF%E1%BC%B1-%CE%BB%CF%8C%CE%B3%CE%BF%CE%B9.mp3">▶
                           </button>
                         </h2>
 						<img data-src="images/logoi.png" width="800"/>
 					</section>
 
-
-					<section id="4.19">
+					<section id="4.19"> ***
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
-                          <audio id="audio33">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio33').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-h3-greekclause.mp3">▶
                           </button>
                         </h3>
 						<h3 class="fragment">👫 <span style="color: blue;">τίς</span> ἦν ἐν ἀρχῇ;
-                          <audio id="audio38" src="audio/01-Slide4.19-%CF%84%CE%AF%CF%82-%E1%BC%A6%CE%BD-%E1%BC%90%CE%BD-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio38').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.19-%CF%84%CE%AF%CF%82-%E1%BC%A6%CE%BD-%E1%BC%90%CE%BD-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">▶
                           </button>
                         </h3>
 						<h3 class="fragment"><span style="color: blue;">ὁ λόγος</span> ἦν ἐν ἀρχῇ.
-                          <audio id="audio39" src="audio/01-Slide4.19-Answer.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio39').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.19-Answer.mp3">▶
                           </button>
                         </h3>
 					</section>
@@ -603,17 +459,11 @@
 				<section id="5.1">
 					<section>
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,
-                          <audio id="audio33">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio33').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-h3-greekclause.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment" style="color:blue">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,
-                          <audio id="audio22">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                           </button>
                          </p>
 					</section>
@@ -621,19 +471,12 @@
 
 					<section id="5.2">
 						<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
-                          <audio id="audio22">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                           </button>
                         </h3>
 						<h1 class="fragment">καί
-                          <audio id="audio40" src="audio/01-Slide5.2-%CE%BA%CE%B1%CE%AF.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio40').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.2-%CE%BA%CE%B1%CE%AF.mp3">▶
                           </button>
-
                         </h1>
 						<h3 class="fragment"><code>1 + 1</code>
                           <audio id="audio41" src="audio/01-Slide5.2-1+1.mp3">
@@ -641,162 +484,112 @@
                           </audio>
                           <button style="border: none" onclick="document.getElementById('audio41').play()">▶️
                           </button>
+
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.2-1+1.mp3">▶
+                          </button>
                         </h3>
 					</section>
 
                     <section id="5.3">
 					<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
-                      <audio id="audio22">
-                      Your browser does not support the <code>audio</code> element.
-                      </audio>
-                      <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                       </button>
                     </h3>
 					<h1>θεός
-                          <audio id="audio42" src="audio/01-Slide5.3-%CE%B8%CE%B5%CF%8C%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio42').play()">▶️
-                          </button>
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.3-%CE%B8%CE%B5%CF%8C%CF%82.mp3">▶
+                      </button>
                     </h1>
 					</section>
 
-
 					<section id="5.4">
                       <h2>ὁ θεός
-                        <audio id="audio43" src="audio/01-Slide5.4-%E1%BD%81-%CE%B8%CE%B5%CF%8C%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio43').play()">▶️
-                          </button>
-
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.4-%E1%BD%81-%CE%B8%CE%B5%CF%8C%CF%82.mp3">▶
+                        </button>
                       </h2>
                       <img data-src="images/theos.jpg" width="600px"/>
 					</section>
 
 					<section id="5.5">
 					 <h1>👫 τίς;
-                        <audio id="audio17" src="audio/01-Slide2.14-%CF%84%CE%AF%CF%82.mp3">
-                        Your browser does not support the <code>audio</code> element.
-                        </audio>
-                        <button style="border: none" onclick="document.getElementById('audio17').play()">▶️
-                        </button>
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide2.14-%CF%84%CE%AF%CF%82.mp3">▶
+                      </button>
                      </h1>
 					</section>
 
 					<section id="5.6">
                       <h2>θεὸς ἢ ἄνθρωπος;
-                        <audio id="audio44" src="audio/01-Slide5.6-Question.mp3">
-                        Your browser does not support the <code>audio</code> element.
-                        </audio>
-                        <button style="border: none" onclick="document.getElementById('audio44').play()">▶️
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.6-Question.mp3">▶
                         </button>
                       </h2>
                       <img data-src="images/creation-adam.jpg" width="80%"/>
-                      <div class="fragment">ἄνθρωπος
-                        <audio id="audio45" src="audio/01-Slide5.6-%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82.mp3">
-                        Your browser does not support the <code>audio</code> element.
-                        </audio>
-                        <button style="border: none" onclick="document.getElementById('audio45').play()">▶️
+                      <h4 class="fragment">ἄνθρωπος
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.6-%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82.mp3">▶
                         </button>
-                      </div>
+                      </h4>
 					</section>
 
 					<section id="5.7">
                       <h2>θεὸς ἢ ἄνθρωπος;
-                        <audio id="audio44" src="audio/01-Slide5.6-Question.mp3">
-                        Your browser does not support the <code>audio</code> element.
-                        </audio>
-                        <button style="border: none" onclick="document.getElementById('audio44').play()">▶️
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.6-Question.mp3">▶
                         </button>
                       </h2>
                       <img data-src="images/creation-god.jpg" width="80%"/>
-                      <div class="fragment">θεός
-                          <audio id="audio42" src="audio/01-Slide5.3-%CE%B8%CE%B5%CF%8C%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio42').play()">▶️
-                          </button>
-                      </div>
+                      <h4 class="fragment">θεός
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.3-%CE%B8%CE%B5%CF%8C%CF%82.mp3">▶
+                        </button>
+                      </h4>
 					</section>
 
 					<section id="5.8">
                       <h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
-                      <audio id="audio22">
-                      Your browser does not support the <code>audio</code> element.
-                      </audio>
-                      <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
-                      </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
+                        </button>
                       </h3>
                       <h1 class="fragment">πρὸς τὸν θεόν
-                          <audio id="audio46" src="audio/01-Slide5.8-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%E1%BD%B8%CE%BD-%CE%B8%CE%B5%CF%8C%CE%BD.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio46').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.8-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%E1%BD%B8%CE%BD-%CE%B8%CE%B5%CF%8C%CE%BD.mp3">▶
+                        </button>
                       </h1>
 					</section>
 
 					<section id="5.9">
                       <h3>πρός
-                          <audio id="audio47" src="audio/01-Slide5.9-%CF%80%CF%81%CF%8C%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio47').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.9-%CF%80%CF%81%CF%8C%CF%82.mp3">▶
+                        </button>
                       </h3>
                       <img data-src="images/pros500pxw.png"/>
                       <div class="fragment">ἡ σφαῖρα (<img data-src="images/SmallRedBall109x109px.png" width="5%"/>) ἐστὶν <font color=blue>πρὸς</font> τὸ ποτήριον (<img data-src="images/ποτήριον.png" width="5%"/>).
-                          <audio id="audio48" src="audio/01-Slide5.9-example.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio48').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.9-example.mp3">▶
+                        </button>
                       </div>
 					</section>
 
 					<section id="5.10">
                       <h3>ὀπίσω
-                          <audio id="audio49" src="audio/01-Slide5.10-%E1%BD%80%CF%80%CE%AF%CF%83%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio49').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.10-%E1%BD%80%CF%80%CE%AF%CF%83%CF%82.mp3">▶
+                        </button>
                       </h3>
                       <img data-src="images/opiso500pxw.png"/>
 					</section>
 
 					<section id="5.11">
                       <h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
-                      <audio id="audio22">
-                      Your browser does not support the <code>audio</code> element.
-                      </audio>
-                      <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
-                      </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
+                        </button>
                       </h3>
                       <h2 class="fragment"><span style="color:blue">τίς</span> ἦν πρὸς τὸν θεόν;
-                          <audio id="audio50" src="audio/01-Slide5.11-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio50').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.11-Question.mp3">▶
+                        </button>
                       </h2>
                       <h2 class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν πρὸς τὸν θεόν.
-                          <audio id="audio51" src="audio/01-Slide5.11-Answer.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio51').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.11-Answer.mp3">▶
+                        </button>
                       </h2>
 					</section>
 
 					<section id="5.12">
 					 <h2>👫 πρὸς τίνα;
-                          <audio id="audio52" src="audio/01-Slide5.12-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%CE%AF%CE%BD%CE%B1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio52').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.12-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%CE%AF%CE%BD%CE%B1.mp3">▶
+                        </button>
                      </h2>
 					</section>
 
@@ -829,28 +622,21 @@
 							</tr>
 						</table>
                           <div class="fragment">
-                            <audio id="audio54" src="audio/01-Slide5.13-horizontal.mp3">
-                            Your browser does not support the <code>audio</code> element.
+                            <audio controls>
+                                <source src="audio/01-Slide5.13-horizontal.mp3" type="audio/mpeg">
+                                Your browser does not support the audio element.
                             </audio>
-                            <button style="border: none" onclick="document.getElementById('audio54').play()">▶️
-                            </button>
                           </div>
 					</section>
 
 					<section id="5.14">
 					<h3>καὶ ὁ λόγος ἦν πρὸς τὸν θεόν
-                      <audio id="audio22">
-                      Your browser does not support the <code>audio</code> element.
-                      </audio>
-                      <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                       </button>
                     </h3>
 					<h2 class="fragment"><span style="color:blue">πρὸς τίνα</span> ἦν ὁ λόγος;
-                          <audio id="audio55" src="audio/01-Slide5.14-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%CE%AF%CE%BD%CE%B1.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio55').play()">▶️
-                          </button>
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.14-%CF%80%CF%81%E1%BD%B8%CF%82-%CF%84%CE%AF%CE%BD%CE%B1.mp3">▶
+                      </button>
                     </h2>
 					<h2 class="fragment"><span style="color:blue">πρὸς τὸν θεόν</span> ἦν ὁ λόγος.
                           <audio id="audio56" src="audio/01-Slide5.14-Answer.mp3">
@@ -858,6 +644,9 @@
                           </audio>
                           <button style="border: none" onclick="document.getElementById('audio56').play()">▶️
                           </button>
+
+                      <button onclick="play_audio('hello')" data-audio="audio/01-Slide5.14-Answer.mp3">▶
+                      </button>
                     </h2>
 					</section>
 				</section>
@@ -865,60 +654,38 @@
 				<section id="6">
 					<section id="6.1">
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,
-                          <audio id="audio33">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio33').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-h3-greekclause.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,
-                          <audio id="audio22">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment" style="color:blue">καὶ θεὸς ἦν ὁ λόγος.
-                          <audio id="audio23">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio23').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li3.mp3">▶
                           </button>
                          </p>
 					</section>
 
 					<section id="6.2">
                       <h3>καὶ θεὸς ἦν ὁ λόγος.
-                          <audio id="audio23">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio23').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li3.mp3">▶
+                        </button>
                       </h3>
                       <h3 class="fragment"><span style="color:blue">τίς</span> ἦν ὁ λόγος;
-                          <audio id="audio57" src="audio/01-Slide6.2-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio57').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide6.2-Question.mp3">▶
+                        </button>
                       </h3>
                       <h3 class="fragment"><span style="color:blue">θεὸς</span> ἦν ὁ λόγος.
-                          <audio id="audio58" src="audio/01-Slide6.2-Answer.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio58').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide6.2-Answer.mp3">▶
+                        </button>
                       </h3>
 					</section>
 
-
 					<section id="6.3">
                       <h3>καὶ θεὸς ἦν ὁ λόγος.
-                          <audio id="audio23">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio23').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li3.mp3">▶
+                        </button>
                       </h3>
                       <h3 class="fragment"><span style="color:blue">τίς</span>  ἦν θεός;
                           <audio id="audio59" src="audio/01-Slide6.3-Question.mp3">
@@ -926,13 +693,13 @@
                           </audio>
                           <button style="border: none" onclick="document.getElementById('audio59').play()">▶️
                           </button>
+
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide6.3-Question.mp3">▶
+                        </button>
                       </h3>
                       <h3 class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν θεός.
-                          <audio id="audio60" src="audio/01-Slide6.3-Answer.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio60').play()">▶️
-                          </button>
+                        <button onclick="play_audio('hello')" data-audio="audio/01-Slide6.3-Answer.mp3">▶
+                        </button>
                       </h3>
 					</section>
 				</section>
@@ -940,88 +707,55 @@
 				<section id="7">
 					<section id="7/1">
 						 <p class="fragment">Ἐν ἀρχῇ ἦν ὁ λόγος,
-                          <audio id="audio33">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio33').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide4.11-h3-greekclause.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment">καὶ ὁ λόγος ἦν πρὸς τὸν θεόν,
-                          <audio id="audio22">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio22').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li2.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment">καὶ θεὸς ἦν ὁ λόγος.
-                          <audio id="audio23">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio23').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li3.mp3">▶
                           </button>
                          </p>
 						 <p class="fragment" style="color:blue">οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-                          <audio id="audio24" src="audio/01-Slide3.2-li4.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio24').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li4.mp3">▶
                           </button>
                          </p>
 					</section>
 
 					<section id="7.2">
 						<p>οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-                          <audio id="audio24" src="audio/01-Slide3.2-li4.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio24').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li4.mp3">▶
                           </button>
                         </p>
 						<h1 class="fragment">οὗτος
-                          <audio id="audio61" src="audio/01-Slide7.2-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio61').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide7.2-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82.mp3">▶
                           </button>
                         </h1>
 					</section>
 
-
 					<section id="7.3">
 						<h3>οὗτος
-                          <audio id="audio61" src="audio/01-Slide7.2-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio61').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide7.2-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82.mp3">▶
                           </button>
                         </h3>
 						<img alt="Eddie Grant, 1911" data-src="images/eddygrant.jpg" width="55%">
-                      <div class="fragment">"Harvard" Eddie Grant<br />
-                      <small>Don't worry. No one expected you to know that!<br />
-                        We just hope you notice the finger pointing at "him".</small>
+                      <div class="fragment">Did you notice the finger pointing at "him".
                       </div>
 					</section>
 
 					<section id="7.4">
 						<p>οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-                          <audio id="audio24" src="audio/01-Slide3.2-li4.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio24').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li4.mp3">▶
                           </button>
                         </p>
 						<p class="fragment"><span style="color:blue">τίς</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν;
-                          <audio id="audio62" src="audio/01-Slide7.4-Question.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio62').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide7.4-Question.mp3">▶
                           </button>
                         </p>
 						<p class="fragment"><span style="color:blue">οὗτος</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
-                          <audio id="audio24" src="audio/01-Slide3.2-li4.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio24').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide3.2-li4.mp3">▶
                           </button>
                         </p>
 						<p class="fragment"><span style="color:blue">ὁ λόγος</span> ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.
@@ -1030,12 +764,15 @@
                           </audio>
                           <button style="border: none" onclick="document.getElementById('audio63').play()">▶️
                           </button>
+
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide7.4-Answer.mp3">▶
+                          </button>
                         </p>
 						<p class="fragment"><span style="color:blue">οὗτος</span> ἦν <span style="color:blue">ὁ λόγος</span>.
-                          <audio id="audio64" src="audio/01-Slide7.4-Question2.mp3">
-                          Your browser does not support the <code>audio</code> element.
-                          </audio>
-                          <button style="border: none" onclick="document.getElementById('audio64').play()">▶️
+                          <button onclick="play_audio('hello')" data-audio="audio/01-Slide7.4-Question2.mp3">▶
+                            <!--
+                              Rerecord this clip with better intonation and rename it. It's not a question.
+                            -->
                           </button>
                         </p>
 					</section>
