@@ -11,7 +11,10 @@
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
-		<style>p { text-align: left;} button { font-size: xx-large; color: blue; border: none;}</style>
+		<style>p { text-align: left;} button { font-size: xx-large; color: blue; border: none;}
+      .dothis::before { content: "↪  "; font-size: 70%; }
+      p.dothis { color:red; text-align: center; font-size: 70%;}
+    </style>
 		<!-- Printing and PDF exports -->
 		<script>
 			var link = document.createElement( 'link' );
@@ -25,23 +28,44 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
+        <section>
+  				<section id="1">
+  					<h1>γραφὴ ζῶσα</h1>
+  					<h3 style="font-size: smaller">Living Language in the Written Text</h3>
+  					<h4>μάθημα ἕν (Lesson 1)</h4>
+            <!--
+  						When audio pertains to the slide as a whole, use the HTML <audio>
+  						as follows.
+            -->
 
-				<section id="1">
-					<h1>γραφὴ ζῶσα</h1>
-					<h3 style="font-size: smaller">Living Language in the Written Text</h3>
-					<h2>μάθημα ἕν (Lesson 1)</h2>
-					<!--
-						When audio pertains to the slide as a whole, use the HTML <audio>
-						as follows.
-					-->
-					<audio controls>
-  						<source src="audio/01-mp-Slide1All.mp3" type="audio/mpeg">
-  						Your browser does not support the audio element.
-					</audio>
-					<p><small><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
-					Copyright 2017 by <a href="http://jonathanrobie@biblicalhumanities.org">Jonathan Robie</a> (<a href="http://twitter.com/bibhumanities">@bibhumanities</a>) and <a href="http://greek-language.com">Micheal Palmer</a> (<a href="http://twitter.com/grklinguist">@grklinguist</a>).
-					<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small></p>
-				</section>
+            <p class="dothis">play this audio</p>
+  					<audio controls>
+    						<source src="audio/01-mp-Slide1All.mp3" type="audio/mpeg">
+    						Your browser does not support the audio element.
+  					</audio>
+
+            <p class="dothis">hit space for next slide</p>
+
+   					<p><small>
+  					Copyright 2017 by <a href="http://jonathanrobie@biblicalhumanities.org">Jonathan Robie</a> (<a href="http://twitter.com/bibhumanities">@bibhumanities</a>) and <a href="http://greek-language.com">Micheal Palmer</a> (<a href="http://twitter.com/grklinguist">@grklinguist</a>).
+  					<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small></p>
+
+  				</section>
+
+          <section id="1a">
+            <h2>How to run the lessons</h2>
+            <p class="dothis">Keep hitting the space bar to step through a lesson</p>
+            <ul>
+              <li class="fragment">Lessons are mostly in Greek.  This first lesson uses more English than most.</li>
+              <li class="fragment">If you see an audio control at the end of a line, click on it to hear the audio for that line. <button data-audio="foo">▶</button></li>
+              <li class="fragment">If you see a full-sized audio control, click on it to hear the audio for the slide.</li>
+            </ul>
+            <audio controls class="fragment">
+                <source src="audio/01-mp-Slide1All.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+          </section>
+        </section>
 
 				<section id="2">
 					<section id="2.1">
@@ -51,6 +75,7 @@
   							<source src="audio/01-jr-Slide2.1-All.mp3" type="audio/mpeg">
   							Your browser does not support the audio element.
 						</audio>
+            <p class="dothis">Every lesson has a language section and a section centered around a text.</p>
 					</section>
 
 					<section id="2.2">
@@ -72,22 +97,26 @@
 					</audio>
 
 						<ul>
-							<li class="fragment">Yes, no  (ναί, οὔ)
+              <li class="fragment">; = Greek question mark</li>
+							<li class="fragment">ναί = yes, οὔ = no
                               	<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li1.mp3">▶
                                 </button>
                           	</li>
-							<li class="fragment">Questions using "or" (ἤ)
+							<li class="fragment">ἤ = or
 							  	<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li2.mp3">▶
                                 </button>
                           	</li>
-							<li class="fragment">Questions using "who" (τίς)
+							<li class="fragment">τίς; = who?
 								<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li3.mp3">▶
                                 </button>
 							</li>
+              <li class="fragment">πότε; = when?
+                <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li3.mp3">▶
+                                </button>
+              </li>
+
 							<li class="fragment">Basic understanding of John 1:1-2 (relax, you won't understand it at first, our job is to teach this).
 							</li>
-							<li class="fragment">You will be swimming in Greek that you don't understand ... don't worry about it, you are only responsible for the things listed above.
-                            </li>
 						</ul>
 					</section>
 
