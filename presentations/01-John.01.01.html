@@ -52,16 +52,19 @@
 
   				</section>
 
-          <section id="1a">
+          <section id="1.2">
             <h2>How to run the lessons</h2>
             <p class="dothis">Keep hitting the space bar to step through a lesson</p>
             <ul>
               <li class="fragment">Lessons are mostly in Greek.  This first lesson uses more English than most.</li>
-              <li class="fragment">If you see an audio control at the end of a line, click on it to hear the audio for that line. <button data-audio="foo">▶</button></li>
+              <li class="fragment">If you see an audio control at the end of a line, click on it to hear the audio for that line. 
+                <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide1.2-If-you-see.mp3">▶
+                </button>
+              </li>
               <li class="fragment">If you see a full-sized audio control, click on it to hear the audio for the slide.</li>
             </ul>
             <audio controls class="fragment">
-                <source src="audio/01-mp-Slide1All.mp3" type="audio/mpeg">
+                <source src="audio/01-mp-Slide1.2-audiocontrol.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
           </section>
@@ -88,35 +91,38 @@
 
                         		<script src="livingtext/js/livingtext.js"></script>
                         	-->
-                            <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-h3.mp3">▶
-                            </button>
                         </h4>
-					<audio controls>
-  						<source src="audio/01-jr-Slide2.2-introduction.mp3" type="audio/mpeg">
-  						Your browser does not support the audio element.
-					</audio>
+                          <audio controls>
+                              <source src="audio/01-jr-Slide2.2-LessonObjectives.mp3" type="audio/mpeg">
+                              Your browser does not support the audio element.
+                          </audio>
 
 						<ul>
-              <li class="fragment">; = Greek question mark</li>
-							<li class="fragment">ναί = yes, οὔ = no
-                              	<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li1.mp3">▶
-                                </button>
-                          	</li>
-							<li class="fragment">ἤ = or
-							  	<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li2.mp3">▶
-                                </button>
-                          	</li>
-							<li class="fragment">τίς; = who?
-								<button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li3.mp3">▶
-                                </button>
-							</li>
-              <li class="fragment">πότε; = when?
-                <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-li3.mp3">▶
-                                </button>
-              </li>
+                          <li class="fragment"><span style="color:blue;">;</span> = Greek question mark
+                            <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.2-QuestionMark.mp3">▶
+                            </button>
+                          </li>
+                          <li class="fragment"><span style="color:blue;">ναί</span> = yes, <span style="color:blue;">οὔ</span> = no
+                            <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.2-nai-ou.mp3">▶
+                            </button>
+                          </li>
+                          <li class="fragment"><span style="color:blue;">ἤ</span> = or
+						    <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.2-h.mp3">▶
+                            </button>
+                          </li>
+                          <li class="fragment"><span style="color:blue;">τίς;</span> = who?
+						    <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.2-tis.mp3">▶
+                            </button>
+						  </li>
+                          <li class="fragment"><span style="color:blue;">πότε;</span> = when?
+                            <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.2-pote.mp3">▶
+                            </button>
+                          </li>
 
-							<li class="fragment">Basic understanding of John 1:1-2 (relax, you won't understand it at first, our job is to teach this).
-							</li>
+						  <li class="fragment">Basic understanding of John 1:1-2. (Relax, you won't understand it at first, our job is to teach this).
+                            <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.2-BasicUnderstanding.mp3">▶
+                            </button>
+						  </li>
 						</ul>
 					</section>
 
@@ -132,6 +138,7 @@
 					</section>
 
 					<section id="2.4">
+                      <p>What does each Greek word mean? Listen to the audio, guess at the meaning, then tap the spacebar to reveal the correct answer.</p>
 						<h2><span class="fragment">👍</span> ναί
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.4-h2-1-nai.mp3">▶
                           </button>
@@ -169,7 +176,7 @@
 					<section id="2.8">
 						<h2>👎</h2>
 						<h2 class="fragment">οὔ!
-                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.4-h2-2-ou.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.8-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -189,7 +196,7 @@
                         </audio>
                         </h2>
 						<h2>ναὶ ἢ οὔ;
-                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.10-h2-1-ναὶ-ἢ-οὔ.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.10-nai-h-ou.mp3">▶
                           </button>
                         </h2>
                         <h2>👍</h2>
@@ -206,7 +213,7 @@
                         </h2>
                         <h2>👎</h2>
 						<h2 class="fragment">οὔ!
-                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.4-h2-2-ou.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.8-ou.mp3">▶
                           </button>
                         </h2>
 					</section>
@@ -228,9 +235,10 @@
 					</section>
 
 					<section id="2.14">
-                      <h1>👫 τίς;</h1>
-                      <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.14-tis-who-tis.mp3">▶
-                      </button>
+                      <h1>👫 τίς;
+                        <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide2.14-tis-who-tis.mp3">▶
+                        </button>
+                      </h1>
 					</section>
 
 					<section id="2.15">
@@ -252,14 +260,14 @@
                       </button>
                       </h2>
                       <h2 class="fragment">Μαρία
-                      <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.12-Maria.mp3">▶
+                      <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.16-Maria-Maria.mp3">▶
                       </button>
                       </h2>
 					</section>
 
 					<section id="2.17">
                       <h1>👩 τίς;
-                      <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.14-tis.mp3">▶
+                      <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide2.17-tis.mp3">▶
                       </button>
                       </h1>
                       <h2 class="fragment">Μαρία
@@ -363,15 +371,15 @@
 						<img style="border: none" alt="maze with beginning and end marked in Greek" data-src="images/archh-maze.png"/>
 					</section>
 
-          <section id="4.4a">
+          <section id="4.5">
             <h2>ἡ τελευτή
-                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.4-%E1%BC%A1-%E1%BC%80%CF%81%CF%87%CE%AE.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.5-h-teleuth.mp3">▶
                           </button>
                         </h2>
             <img style="border: none" alt="maze with beginning and end marked in Greek" data-src="images/teleuth-maze.png"/>
           </section>
 
-					<section id="4.5">
+					<section id="4.6">
 						<h2>ἡ ἀρχή, ἡ τελευτή
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.5-h-arxh-h-teleuth.mp3">▶
                           </button>
@@ -379,7 +387,7 @@
 						<img alt="pumpkin from seed to harvest" data-src="images/pumpkin.png"/>
 					</section>
 
-					<section id="4.6">
+					<section id="4.7">
 						<h2>ἡ ἀρχή, ἡ τελευτή
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.5-%E1%BC%80%CF%81%CF%87%CE%AE-%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%AE.mp3">▶
                           </button>
@@ -387,13 +395,16 @@
 						<img alt="frog life cycle with beginning and end marked" data-src="images/frog.png"/>
 					</section>
 
-          <section>
-            <h2>ἐρωτήματα</h2>
-            <h1 style="color:blue;">;</h1>
-            <h2>questions</h2>
-          </section>
+                    <section id="4.8">
+                      <h2>ἐρωτήματα
+                        <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.8-erwthmata.mp3">▶
+                        </button>
+                      </h2>
+                      <h1 style="color:blue;">;</h1>
+                      <h2>questions</h2>
+                    </section>
 
-					<section id="4.7">
+					<section id="4.9">
 						<h2>ἀρχή ἢ τελευτή;
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.7-arxh-h-teleuth-GreekOnly.mp3">▶
                           </button>
@@ -405,7 +416,7 @@
                       </h2>
 					</section>
 
-					<section id="4.8">
+					<section id="4.10">
 						<h2>ἀρχή ἢ τελευτή;
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.7-h2-Question.mp3">▶
                           </button>
@@ -417,7 +428,7 @@
                         </h2>
 					</section>
 
-					<section id="4.9">
+					<section id="4.11">
 						<h2>Ἐν τελευτῇ
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.9-en-teleuth.mp3">▶
                           </button>
@@ -426,7 +437,7 @@
 					</section>
 
 
-					<section id="4.10">
+					<section id="4.12">
 						<h2>Ἐν ἀρχῇ
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.10-en-arxh.mp3">▶
                           </button>
@@ -434,7 +445,7 @@
 						<img alt="Jeremy Wariner at the beginning of a race" data-src="images/Start_Jeremy_Wariner_2007.jpg" width="75%"/>
 					</section>
 
-					<section id="4.11">
+					<section id="4.13">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.11-en-arxh-hn-o-logos.mp3">▶
                           </button>
@@ -445,7 +456,7 @@
                         </h1>
 					</section>
 
-					<section id="4.12">
+					<section id="4.14">
 						<h1>ἦν
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.12-hn-was.mp3">▶
                           </button>
@@ -453,14 +464,14 @@
 						<h2>ἦν = "was"</h2>
 					</section>
 
-					<section id="4.13">
+					<section id="4.15">
 						<h2>Ἐν ἀρχῇ <span style="color:blue">ἦν</span> ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.12-wholeclause.mp3">▶
                           </button>
                         </h2>
 					</section>
 
-					<section id="4.14">
+					<section id="4.16">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.14-en-arxh-hn-o-logos.mp3">▶
                           </button>
@@ -471,7 +482,7 @@
                         </h1>
 					</section>
 
-					<section id="4.15">
+					<section id="4.17">
 						<h2>ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.15-o-logos.mp3">▶
                           </button>
@@ -479,7 +490,7 @@
 						<h1 class="fragment">نمستے</h1>
 					</section>
 
-					<section id="4.16">
+					<section id="4.18">
 						<h2>ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.14-%E1%BD%81-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82.mp3">▶
                           </button>
@@ -487,7 +498,7 @@
 						<h1 class="fragment">Слухаю</h1>
 					</section>
 
-					<section id="4.17">
+					<section id="4.19">
 						<h2>ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.15-o-logos.mp3">▶
                           </button>
@@ -495,7 +506,7 @@
 						<h1 class="fragment">喂</h1>
 					</section>
 
-					<section id="4.18">
+					<section id="4.20">
 						<h2>οἱ λόγοι
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.18-%CE%BF%E1%BC%B1-%CE%BB%CF%8C%CE%B3%CE%BF%CE%B9.mp3">▶
                           </button>
@@ -503,7 +514,7 @@
 						<img data-src="images/logoi.png" width="800"/>
 					</section>
 
-					<section id="4.19">
+					<section id="4.21">
 						<h3>Ἐν ἀρχῇ ἦν ὁ λόγος
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.19-en-arxh-hn-o-logos.mp3">▶
                           </button>
@@ -516,11 +527,11 @@
                           <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide4.19-Answer.mp3">▶
                           </button>
                         </h3>
-            <h3 class="fragment">👨 <span style="color: blue;">Ἰωάνης</span> ἦν ἐν ἀρχῇ;
-                          <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.19-Iwanhs-hn-en-arxh.mp3">▶
-                          </button>
+                        <h3 class="fragment">👨 <span style="color: blue;">Ἰωάνης</span> ἦν ἐν ἀρχῇ;
+                            <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.19-Iwanhs-hn-en-arxh.mp3">▶
+                            </button>
                         </h3>
-            <h3 class="fragment">👩 <span style="color: blue;">Μαρία</span> ἦν ἐν ἀρχῇ;
+                        <h3 class="fragment">👩 <span style="color: blue;">Μαρία</span> ἦν ἐν ἀρχῇ;
                           <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide4.19-Maria-hn-en-arxh.mp3">▶
                           </button>
                         </h3>
@@ -627,7 +638,7 @@
                         <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide5.9-%CF%80%CF%81%CF%8C%CF%82.mp3">▶
                         </button>
                       </h3>
-                      <img data-src="images/pros500pxw.png"/>ß
+                      <img data-src="images/pros500pxw.png"/>
 					</section>
 
 					<section id="5.10">
@@ -658,6 +669,10 @@
                         <button onclick="play_audio('hello')" data-audio="audio/01-tr-Slide5.12-pros-tina.mp3">▶
                         </button>
                      </h2>
+                      <h3 class="fragment">πρὸς τὸν θεόν
+                        <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide5.12-pros-ton-theon.mp3">▶
+                        </button>
+                      </h3>
 					</section>
 
 
@@ -757,7 +772,7 @@
 
 					<section id="7.3">
 						<h3>οὗτος
-                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide7.2-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide7.3-outos.mp3">▶
                           </button>
                         </h3>
 						<img alt="Eddie Grant, 1911" data-src="images/eddygrant.jpg" width="55%">
@@ -796,7 +811,7 @@
                           </button>
                         </p>
 						<p class="fragment"><span style="color:blue">πρὸς τὸν θεόν</span> ἦν οὗτος ἐν ἀρχῇ.
-                          <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide7.5-pros-ton-theon.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide7.5-pros-ton-theon.mp3">▶
                           </button>
                         </p>
 					</section>
@@ -819,7 +834,7 @@
                           </button>
                         </p>
 						<p class="fragment"><span style="color:blue">ἐν ἀρχῇ</span> ἦν οὗτος πρὸς τὸν θεόν.
-                          <button onclick="play_audio('hello')" data-audio="audio/01-jr-Slide7.7-en-arxh.mp3">▶
+                          <button onclick="play_audio('hello')" data-audio="audio/01-mp-Slide7.7-en-archh.mp3">▶
                           </button>
                         </p>
 					</section>
@@ -998,6 +1013,12 @@
                         </audio>
 					</section>
 				</section>
+                <section id="9">
+                  <section id="9.1">
+                    <video controls="controls" width="800" height="600" 
+       name="Exit Message" src="video/Lesson-1-KALWS-ClosingMessage.mov"></video>
+                  </section>
+                </section>
 			</div>
 		</div>
 
