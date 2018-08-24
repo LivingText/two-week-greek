@@ -84,3 +84,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/69/1927_Chiang_Soong_wedding_ph
 * 800px-Lower_Galilee_Cana_marks.jpg
 https://en.wikipedia.org/wiki/Cana#/media/File:Lower_Galilee_Cana_marks.jpg
 Map of the Lower Galilee with possible locations of Cana: Kafr Kanna, blue; Khirbet Qana, red. Danny lost - Own work.  CC0.
+
+* Potter_at_work,_Jaura,_India.jpg
+https://en.wikipedia.org/wiki/Pottery#/media/File:Potter_at_work,_Jaura,_India.jpg
+A potter at work in Jaura, Madhya Pradesh, India.  CC BY-SA 4.0.
