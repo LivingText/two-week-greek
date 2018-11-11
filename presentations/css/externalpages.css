@@ -1,0 +1,25 @@
+body {
+  background-image: image(images/SlideBackground-Greek.png)
+}
+h1 {
+  font-size: "xxlarge";
+  color:saddlebrown;
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-size: "large";
+  color:saddlebrown;
+  font-family: sans-serif;
+  font-variant-caps: small-caps;
+}
+p {
+  font-family: sans-serif;
+  text-indent: 50px;
+}
+a {
+  color: blue
+}
+a:visited {
+  color: rosybrown
+}
